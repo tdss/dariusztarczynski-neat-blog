@@ -9,5 +9,6 @@ tags:
 ---
 W﻿e are humans, maybe in future, I will make this process automatic, but for now:
 
-\
+![](/static/img/brave_xzpwqtjnck.png)
+
 T﻿o get a copy of my book, just write me an email to dariusz.tarczynski at gmail. I will just send it to you.
