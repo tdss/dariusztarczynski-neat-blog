@@ -1,5 +1,6 @@
 ---
-title: This is my first post
+title: Why gamification works?
+thumbnail: /static/img/luxury-monty-python.gif
 description: Capitalize on low hanging fruit to identify a ballpark value added
   activity to beta test. Override the digital divide with additional
   clickthroughs from DevOps.
@@ -10,51 +11,14 @@ tags:
   - center
   - right
 ---
-## This is a Heading h2
+The Prospect Theory introduced by Kahnemann and Tversky explains it best.
 
-###### This is a Heading h6
+1. People value perceived gains more than perceived losses.
+2. Loses has a bigger negative impact than wins.
+3. Having 2 equal options: 1. get $25. or 2. get $50 but then have to hand back $25. People would prefer the first one, as they don't like 'losing', even though they know they haven't lost anything.
 
-![Luxury gif!](/static/img/luxury-monty-python.gif)
+   What does that mean?
 
-## Emphasis
-
-*This text will be italic*\
-*This will also be italic*
-
-**This text will be bold**\
-**This will also be bold**
-
-*You **can** combine them*
-
-## Lists
-
-### Unordered
-
-* Item 1
-* Item 2
-
-  * Item 2a
-  * Item 2b
-
-### Ordered
-
-1. Item 1
-2. Item 2
-3. Item 3
-
-   1. Item 3a
-   2. Item 3b
-
-## Links
-
-You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
-
-## Blockquotes
-
-> Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
->
-> > Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
-
-## Inline code
-
-This web site is using `markedjs/marked`.
+1. Reward small gains and focus on wins and achievements to achieve scientifically proven bias into certain actions.
+2. Small gains make them more "certain" than big challenges. People avoid "probable" options when they have "certain" at hand.
+3. Starting something is more certain than finishing it: When building good habits, rewarding 'the starts' is more important than rewarding the end result.
