@@ -14,6 +14,8 @@ tags:
 
 ###### This is a Heading h6
 
+![Luxury gif!](/static/img/luxury-monty-python.gif)
+
 ## Emphasis
 
 *This text will be italic*\
