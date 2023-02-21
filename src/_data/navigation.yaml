@@ -1,10 +1,8 @@
 ---
 items:
-  - text: Menu One
-    url: "#"
-  - text: Menu Two
-    url: "#"
-  - text: Menu Three
-    url: "#"
+  - text: Gamification Consulting Services
+    url: "/gamification-consulting"
+  - text: Get my book
+    url: "/real-life-gamification"
   - text: Blog
-    url: "/blog"
+    url: "/gamification-news"
