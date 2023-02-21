@@ -1,0 +1,4 @@
+Sitemap: https://dariusztarzcynski.com/sitemap.xml
+
+User-agent: *
+Disallow:
