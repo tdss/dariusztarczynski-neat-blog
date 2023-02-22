@@ -11,13 +11,13 @@ tags:
   - center
   - right
 ---
-The Prospect Theory introduced by Kahnemann and Tversky explains it best.
+**The Prospect Theory** introduced by Kahnemann and Tversky explains it best.
 
 1. People value perceived gains more than perceived losses.
 2. Loses has a bigger negative impact than wins.
 3. Having 2 equal options: 1. get $25. or 2. get $50 but then have to hand back $25. People would prefer the first one, as they don't like 'losing', even though they know they haven't lost anything.
 
-   What does that mean?
+### What does that mean?
 
 1. Reward small gains and focus on wins and achievements to achieve scientifically proven bias into certain actions.
 2. Small gains make them more "certain" than big challenges. People avoid "probable" options when they have "certain" at hand.
