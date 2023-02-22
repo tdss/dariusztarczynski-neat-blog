@@ -13,6 +13,8 @@ tags:
 ---
 **The Prospect Theory** introduced by Kahnemann and Tversky explains it best.
 
+![The Prospect Theory explains why gamification works](/static/img/1676288871657.jpg)
+
 1. People value perceived gains more than perceived losses.
 2. Loses has a bigger negative impact than wins.
 3. Having 2 equal options: 1. get $25. or 2. get $50 but then have to hand back $25. People would prefer the first one, as they don't like 'losing', even though they know they haven't lost anything.
