@@ -1,7 +1,6 @@
 ---
-title: Gamification Consulting
-description: Gamification Consulting services. Explore, define and guide your
-  gamification process with scientific process
+title: Octalysis vs Emotion Shift gamification framework
+description: How does Octalysis framework popare to another popular Emotion Shift framework? Which one works best for business gamification?
 author: Dariusz Tarczyński
 date: 2023-02-21T20:08:44.485Z
 tags:
