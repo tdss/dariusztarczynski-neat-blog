@@ -29,7 +29,7 @@ collections:
         name: "tags"
         multiple: true
         create: true
-        options: ["Tags", "created", "from", "config.yml"]
+        options: ["Gamification", "Emotional Shift", "E-commerce gamification", "Gamification consulting", "Mobile apps gamification"]
   - label: "Settings"
     name: "settings"
     editor:

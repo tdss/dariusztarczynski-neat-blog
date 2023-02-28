@@ -5,7 +5,7 @@ description: "In simple words: Gamification creates true engagement, brings joy,
 author: Dariusz Tarczyński
 date: 2023-02-24T09:09:14.468Z
 tags:
-  - Tags
+  - Gamification
 ---
 Many people try to understand "what is gamification"? The answer is quite simple, yet is explained in many different ways.
 
