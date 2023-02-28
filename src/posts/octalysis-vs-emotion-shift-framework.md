@@ -28,8 +28,6 @@ Contrary to **Octalysis** which is focused on design-first approach to gamificai
 - use **Emotional Shift** chart to define target emotions you want to trigger
 - apply only those gamification techniques that align with these emotions.
 
-Results above 50% are considered worth implementing.
-Results below 50% will likely discourage the player.
 
 Example:
 1. Emotional persona - "Explorer", "Introvert"
@@ -40,6 +38,13 @@ Example:
     - 25% Share with everyone
     - 20% Random rewards
 
+Results above 50% are considered **engaging**
+Results below 50% will likely **discourage** the player.
+
+
+You should consider multiple emotional personas, but remember that it is very rare to see one size that will fit them all. 
+
+Just like in video games. Some preffer puzzles, some would like to see more action, business implementation of gamification needs to target group that seeks a specific kind of narrative.
 
 **Summary**
 
@@ -50,7 +55,7 @@ The **"Emotional Shift"** gamification design framework has been built to delive
 
 
 
-To learn more about "Emotional Shift" gamification framework, simply book a paid consultation from here: https://calendly.com/dariusz-tdsoft/60-minute-consultation
+To learn more about **"Emotional Shift" gamification framework**, simply book a paid consultation from here: https://calendly.com/dariusz-tdsoft/60-minute-consultation
 
 Is it even to early for this step for you? Feel free to use a free 30-minute "lets get to know each other" meeting, to exchange some early thougths: https://calendly.com/dariusz-tdsoft/meeting-with-dariusz
 
