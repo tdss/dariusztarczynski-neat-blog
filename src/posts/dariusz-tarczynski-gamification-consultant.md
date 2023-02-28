@@ -18,7 +18,7 @@ After studying current gamification fameworks, Dariusz noticed that the current 
 
 **Emotional Shift** is a framework that focues not on the techniques used, or functionalities, but on transforming specific user states.
 
-You can learn about [how Emotional Shift compares to Octalysis here](/octalysis-vs-emotion-shift-framework).
+You can learn about [how Emotional Shift compares to Octalysis here](/octalysis-vs-emotion-shift-framework.html).
 
 
-Learn more about [gamification consulting process here](/gamification consulting).
+Learn more about [gamification consulting](/gamification-consulting.html) services.
