@@ -8,7 +8,7 @@ tags:
 ---
 **About Dariusz Tarczyński**
 
-From software engineering, towards own company and multiple startups, Dariusz has spent over 15 years very closesly in IT industry and technical product delivery.
+From software engineering, towards own company and multiple startups, Dariusz has spent over 15 years within the IT industry and technical product delivery.
 
 Understaing human behavior, social psychology and psychiatry was his hobby for many years, until 2019, when he decided to implement a simple gamification for the first time in his office.
 
@@ -21,4 +21,11 @@ After studying current gamification fameworks, Dariusz noticed that the current 
 You can learn about [how Emotional Shift compares to Octalysis here](/octalysis-vs-emotion-shift-framework.html).
 
 
-Learn more about [gamification consulting](/gamification-consulting.html) services.
+Also learn more about his [gamification consulting](/gamification-consulting.html) services.
+
+
+Dariusz uses his experience in IT and passion for understanding of human brain to create and teach new concepts in gamification design.
+
+All this to make our experience with products more joyful, engaging, motivating.
+
+> Turn users into players!
