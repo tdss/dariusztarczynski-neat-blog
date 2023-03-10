@@ -34,14 +34,12 @@ Y﻿es, we can, and we would do it step by step, here is how:
 
 G﻿amification is simple, doesn't require any complex systems, but if it is facing multiple users, the user interface should be well thought and simple.
 
-Y﻿ou can create your own gamification backend in one of the rapid development LowCode frameworks like Directus or Bubble.io
+Y﻿ou can create your own gamification backend in one of the rapid development LowCode frameworks like [Directus](https://directus.io/) or [Bubble.io](https://bubble.io/)
 
-Y﻿ou can also create an "off the shelf" api solution and build frontend on top of it, like with Game Layer.
+Y﻿ou can also create an "off the shelf" api solution and build frontend on top of it, like with [Game Layer](https://gamelayer.co).
 
-Y﻿ou can also decide to use fully integrated solution like OGAMIFY that would provide both frontend and backend, ready to launch within your company. 
+Y﻿ou can also decide to use fully integrated solution like [OGAMIFY ](https://ogamify.com)that would provide both frontend and backend, ready to launch within your company. 
 
 E﻿very solution has its upsides and downsides, and should be tailored for the specific needs of a company.
-
-
 
 T﻿o hear more, schedule a [gamification consultation](/gamification-consulting.html) with me.
