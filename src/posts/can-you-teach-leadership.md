@@ -18,8 +18,6 @@ I﻿n case of failure, company is facing a difficult choice, where it risks losi
 
 T﻿o avoid the issue, companies secure themselves with many "processes", some of them more difficult to live with than others. Papers, standards, SOP's, everything to limit the risk of wrong behavior.
 
-
-
 ## C﻿an we use gamification to ensure good leadership across the company?
 
 Y﻿es, we can, and we would do it step by step, here is how:
@@ -32,8 +30,6 @@ Y﻿es, we can, and we would do it step by step, here is how:
 
 \-﻿ **rewards** - An employee who is doing great job by growing his skills and supporting his company, might not get recognition from his direct manager, but if he can 'earn' his own 'coins' through gamifeid system and request a new chair for them, instead of going through stressful "purchase request" process, it may really help him stay motivated. And company would have to buy that new chair anyway.
 
-
-
 ## W﻿hat are tools that could be used to gamify office space?
 
 G﻿amification is simple, doesn't require any complex systems, but if it is facing multiple users, the user interface should be well thought and simple.
@@ -44,6 +40,8 @@ Y﻿ou can also create an "off the shelf" api solution and build frontend on top
 
 Y﻿ou can also decide to use fully integrated solution like OGAMIFY that would provide both frontend and backend, ready to launch within your company. 
 
+E﻿very solution has its upsides and downsides, and should be tailored for the specific needs of a company.
 
 
-E﻿ach solutions has its upsides and downsides
+
+T﻿o hear more, schedule a [gamification consultation](/gamification-consulting.html) with me.
