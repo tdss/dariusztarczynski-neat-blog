@@ -15,6 +15,9 @@
     {% if prism == true %}
       <link rel="stylesheet" type="text/css" href="/static/css/prism-tomorrow.css">
     {% endif %}
+    {% if canonical %}
+  <link rel="canonical" href="{{ canonical }}" />
+    {% endif %}
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-156654093-2"></script>
 <script>
