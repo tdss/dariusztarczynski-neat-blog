@@ -1,6 +1,6 @@
 ---
 title: Can you teach leadership?
-canonical: /
+canonical: ""
 description: "M﻿any companies are going through the same process: a highly
   perfmorning employee gets promoted and now has his own team to lead."
 author: Dariusz Tarczyński
