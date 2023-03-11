@@ -57,15 +57,17 @@ W﻿hat we need here is something serious, something that would work - even for 
 
 ## S﻿mile.io
 
+![smile.io shopify gamification system](/static/img/smileio-shopify-gamification-system.png)
+
 SHOPIFY APP: <https://apps.shopify.com/smile-io>
 
 DEMO STORE: <https://smile-io-demo-store.myshopify.com/>
 
 API access: upon request at the highest package $599usd a month
 
-
-
 ## G﻿ameball
+
+![](/static/img/gameball-shopify-gamification-syste.png)
 
 SHOPIFY APP: <https://apps.shopify.com/gameball>
 
