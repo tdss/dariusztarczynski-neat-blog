@@ -102,3 +102,13 @@ I﻿n terms of API access and ability to expand the platform with your own custo
 **S﻿mile.io** is a little bit more expensive with free tier up to 200 monthly orders, and packages of $49/month, $199/month and $599/month. You would need to buy the most expensive package to get the API access.
 
 ![smile.io pricing](/static/img/brave_wiye8m8osa.png)
+
+
+
+## S﻿ummary
+
+I﻿f you are using shopify and have not implemented any gamification systems yet, then you might be leaving a lot of money on the table. Gamification and loyalty systems can increase your store volume by even 30-40%.
+
+You can pick from many different shopify apps that deliver this service for you with a small fee, and test by yourself.
+
+R﻿emember that functionality is one thing, but analysis and properly balancing the system is far more important. Experience comes handy, but once the system is setup right, then you can sit back, relax and enjoy the extra profits!
