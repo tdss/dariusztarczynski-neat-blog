@@ -1,6 +1,7 @@
 ---
 title: Secret Page
 canonical: ""
+secret: true
 description: This is a secret page, you shouldn't be here!
 author: Dariusz Tarczyński
 date: 2023-03-13T11:23:18.660Z
