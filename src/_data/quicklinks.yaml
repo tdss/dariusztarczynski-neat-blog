@@ -4,5 +4,6 @@ links:
     url: "/gamification-news/"
     desc: Check out my recent gamification findings that I publish on my blog.
   - title: LinkedIn profile
+    target: _blank
     url: "https://www.linkedin.com/in/dariusztarczynski/"
     desc: Find my LinkedIn profile with new posts about gamification
