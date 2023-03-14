@@ -6,6 +6,7 @@ layout: blog
     {% set postslist = collections.post %}
 
     {% for post in postslist | reverse %}
+    {% if not post.data.secret %}
         <article class="my-8">
             <h2 class="font-bold text-3xl text-gray-900 mb-2">
                 <a href="{{ post.url | url }}">
@@ -37,5 +38,6 @@ layout: blog
             </p>
 
         </article>
+    {% endif %}
     {% endfor %}
 </section>
