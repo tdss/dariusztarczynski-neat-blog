@@ -1,5 +1,5 @@
 ---
-title: "Gamification in Shopify: 2 plugins that actually make sense to use"
+title: 2 Best Gamification Apps for Shopify - in 2023 - comparison
 description: Out of number of shopify gamification plugins, I picked 2 that I
   think make the most sense to use. Lets compare them
 author: Dariusz Tarczyński
