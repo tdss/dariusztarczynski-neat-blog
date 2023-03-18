@@ -64,8 +64,6 @@ W﻿hat kind of emotions do they feel? What do they see? What do they think when
 
 \-﻿ are they looking to meet someone on linkedin? who?
 
-
-
 When you ask yourself those questions, you can create an emotional image of the person using linkedin platform and observe the typical emotions. You can see a person that is going through a mix of emotions while scrolling through linkedin content. Sometimes it is competing product or service, and they feel fear that they are missing out. Sometimes he is approached by one of thousands sales people on linkedin, they send very smart invitation messages, and he is wondering whether he should accept and ignore and increase his network size counter, or just ignore and stare at the invitation for another 3 months. While going through this, he is feeling distant, uneasy about the fact that most likely another person has something to sell to him without him asking for it.
 
 Sometimes he just sees something cool, or something "cool enough" sent by his friend, whom he would like to support in some way, and he presses the like button.
@@ -80,27 +78,19 @@ N﻿eutral: emotional distance, do not want to connect with someone who they don
 
 P﻿ositive: energized, actively learning, need to be seen and appreciated
 
-
-
 ### Emotion Shift - what will we do next!
 
-fear  ------- SHIFTS TO ----------> action, encouraged engagement
+fear  ------- SHIFTS TO ---------->  comforting news "you got it", "all obstacles lead to knowledge" etc
 
 emotional distance ----SHIFTS TO -------> acceptance and appreciation of a gift
 
 need to be seen and appreciated ---------- SHIFTS TO --------> being appreciated, baffled, humbled (positively)
 
-
-
 Ok, looks like, the only thing we need to do to attract typical CEO, who is going through various different emotions while browsing linkedin is:
 
 1. Make him part of something successful he can be engaged about.
-
 2. Give him a gift and ask how you can help?
-
 3. Appreciate him publicly, put him on pedestal, so he can say thanks
-
-
 
 ## Why are we doing this?
 
@@ -109,8 +99,6 @@ Because once you discover the emotions you are willing to create, nothing else m
 All other posts about various linkedin followers gathering techniques, all other e-books and courses teaching you how to succeed in this space doesn't matter anymore.
 
 And no, you don't have to be posting cool videos 3 times a day to gather attention of this group.
-
-
 
 ## Lets prove this.
 
