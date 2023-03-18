@@ -84,19 +84,19 @@ fear  ------- SHIFTS TO ---------->  comforting news "you got it", "all obstacle
 
 emotional distance ----SHIFTS TO -------> gift reception
 
-need to be seen and appreciated ---------- SHIFTS TO --------> being appreciated, baffled, humbled (positively), getting taught how to succeed (on linkedin and in life)
+need to be seen and appreciated ---------- SHIFTS TO --------> being appreciated, baffled, humbled (positively), getting taught how to succeed (on linkedin and in life), being part of posts about greatness, great leadership and great life story - even if it is just putting the like
 
-Ok, looks like, the only thing we need to do to attract typical CEO, who is going through various different emotions while browsing linkedin is:
+Ok, looks like the only thing we need to do, to attract typical CEO, who is going through various different emotions while browsing linkedin is:
 
-1. Make him part of something successful he can be engaged about.
-2. Give him a gift and ask how you can help?
+1. Make him part of something successful he can be engaged about. Tell a story about struggle transforming into success. Tell a story about what success is (where leader shows example).
+2. Engage only after at least one like. Give him a gift. And ask how you can help.
 3. Appreciate him publicly, put him on pedestal, so he can say thanks
 
 ## Why are we doing this?
 
 Because once you discover the emotions you are willing to create, nothing else matters.
 
-All other posts about various linkedin followers gathering techniques, all other e-books and courses teaching you how to succeed in this space doesn't matter anymore.
+All other posts about various linkedin followers gathering techniques, all other e-books and courses teaching you how to succeed in this space doesn't matter anymore. They matter, but not for you and for your startegy. It is not only about getting "any followers" you want to have a meaningful network, that will produce fruits.
 
 And no, you don't have to be posting cool videos 3 times a day to gather attention of this group.
 
