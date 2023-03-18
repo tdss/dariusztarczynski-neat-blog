@@ -2,8 +2,11 @@
 <div class="bg-white py-24 sm:py-32">
     <div class="mx-auto max-w-7xl px-6 lg:px-8">
       <div class="mx-auto max-w-3xl px-6 sm:text-left">
-        <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Book consultation with Dariusz</h2>
-        <p class="mt-6 text-lg leading-8 text-gray-600">Multiple years in IT industry and in product development positions, helped Dariusz to get the right perspective, when it comes to advising business owners who want to leverage gamifiction and bevaioral psychology. Now, his knowledge can be shared with others who seek increased profitability, efficiency and joy in their next venture.</p>
+        <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Looking for professional help?</h2>
+        <p class="mt-6 text-lg leading-8 text-gray-600">My name is Dariusz. Over 15 years in IT industry and in product development positions overseeing over 100 products being developed, helped me to get the right perspective, when it comes to advising business owners who want to leverage gamifiction and bevaioral psychology. Now, his knowledge can be shared with others who seek increased profitability, efficiency and joy in their next venture.</p>
+        <p class="mt-6 text-lg leading-8 text-gray-600">I saw projects rise to milions of users from zero. I also saw stagnated projects without any hope for traction. Hopefully my experience can help you win and be part of the first group.</p>
+        <p class="mt-6 text-lg leading-8 text-gray-600">Research, competitive analysis, user analysis, behavioral patterns and finally user flow, gamification elements and post-launch analysis are the main areas that you can hire me for. </p>
+        <p class="mt-6 text-lg leading-8 text-gray-600">Everything above would be done considering technical aspects, complexity and feasibility to find the right balance between the strategy and the cost & time to market.</p>
         <H3 class="text-xl font-bold mt-8">Trusted reviews:</H3>
         <p class="italic mt-4">⭐⭐⭐⭐⭐ "Dariusz did an excellent job with the project. His work was high quality and delivered on time, and we highly recommend him to anyone looking for a skilled freelancer on Upwork."</p>
         <p class="italic mt-4">⭐⭐⭐⭐⭐ "Terrific working with Dariusz, he had a terrific grasp of the material, understood the contract and worked quickly - great to work with - as my project continues I fully intend to reach out and engage Dariusz again!"</p>
@@ -40,7 +43,7 @@
     </small>
 </footer>
 <!-- Global notification live region, render this permanently at the end of the document -->
-<div aria-live="assertive" class="pointer-events-none fixed inset-0 flex items-end px-4 py-16 sm:items-start sm:px-6 sm:py-16">
+<div id="popup" aria-live="assertive" class="pointer-events-none fixed inset-0 flex items-end px-4 py-16 sm:items-start sm:px-6 sm:py-16">
   <div class="flex w-full flex-col items-center space-y-4 sm:items-end">
     <!--
       Notification panel, dynamically insert this into the live region when it needs to be displayed
@@ -65,54 +68,8 @@
             <p class="mt-1 text-sm text-gray-500" id="t_Text"></p>
           </div>
 
-          <script type="text/javascript">
-            // Set a Cookie
-            let userLvl = "0";
-            let title = "";
-            let text = "";
-  function setCookie(cName, cValue, expDays) {
-    let date = new Date();
-    date.setTime(date.getTime() + (expDays * 24 * 60 * 60 * 1000));
-    const expires = "expires=" + date.toUTCString();
-    document.cookie = cName + "=" + cValue + "; " + expires + "; path=/";
-  }
-  function getCookie(cName) {
-    const name = cName + "=";
-    const cDecoded = decodeURIComponent(document.cookie); //to be careful
-    const cArr = cDecoded .split('; ');
-    let res;
-    cArr.forEach(val => {
-        if (val.indexOf(name) === 0) res = val.substring(name.length);
-    })
-    return res;
-  }
-  userLvl = getCookie("level");
-  if (!userLvl) {
-    userLvl = 0;
-  }
-
-  if (userLvl == 1) {
-    title = "Good job!";
-    text = "You have unlocked a secret page <a class='text-green-800 text-bold' href='/secret-page''> >ENTER< </a>";
-  }
-
-  
-  if (userLvl == 0) {
-    title = "Lets play a game";
-    text = "Now, open another page (+300exp).";
-    setCookie("level",1,30);
-    userLvl = 1;
-  }
-  
-  document.getElementById("t_Title").innerHTML = title;
-  document.getElementById("t_Text").innerHTML = text;
-
-  
-  
-  
-            </script>
           <div class="ml-4 flex flex-shrink-0">
-            <button type="button" class="inline-flex rounded-md bg-white text-gray-400 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2">
+            <button id="popup-close" type="button" class="inline-flex rounded-md bg-white text-gray-400 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2">
               <span class="sr-only">Close</span>
               <svg class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
                 <path d="M6.28 5.22a.75.75 0 00-1.06 1.06L8.94 10l-3.72 3.72a.75.75 0 101.06 1.06L10 11.06l3.72 3.72a.75.75 0 101.06-1.06L11.06 10l3.72-3.72a.75.75 0 00-1.06-1.06L10 8.94 6.28 5.22z" />
@@ -124,3 +81,59 @@
     </div>
   </div>
 </div>
+
+<script type="text/javascript">
+    // Set a Cookie
+    let userLvl = "0";
+    let title = "";
+    let text = "";
+function setCookie(cName, cValue, expDays) {
+let date = new Date();
+date.setTime(date.getTime() + (expDays * 24 * 60 * 60 * 1000));
+const expires = "expires=" + date.toUTCString();
+document.cookie = cName + "=" + cValue + "; " + expires + "; path=/";
+}
+function getCookie(cName) {
+const name = cName + "=";
+const cDecoded = decodeURIComponent(document.cookie); //to be careful
+const cArr = cDecoded .split('; ');
+let res;
+cArr.forEach(val => {
+if (val.indexOf(name) === 0) res = val.substring(name.length);
+})
+return res;
+}
+userLvl = getCookie("level");
+if (!userLvl) {
+userLvl = 0;
+}
+
+if (userLvl == 999) {
+document.getElementById("popup").innerHTML="";
+} else {
+
+    if (userLvl == 1) {
+title = "Good job!";
+text = "You have unlocked a secret page <a class='text-green-800 text-bold' href='/secret-page''> >ENTER< </a>";
+}
+
+
+if (userLvl == 0) {
+title = "Lets play a game";
+text = "Now, open another page (+300exp).";
+setCookie("level",1,30);
+userLvl = 1;
+}
+
+document.getElementById("t_Title").innerHTML = title;
+document.getElementById("t_Text").innerHTML = text;
+
+document.getElementById("popup-close").onclick = function() {
+setCookie("level",999,30);
+document.getElementById("popup").innerHTML="";
+}
+
+
+}
+
+    </script>
