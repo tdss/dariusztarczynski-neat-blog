@@ -82,7 +82,7 @@ P﻿ositive: energized, actively learning, need to be seen and appreciated
 
 fear  ------- SHIFTS TO ---------->  comforting news "you got it", "all obstacles lead to knowledge" etc
 
-emotional distance ----SHIFTS TO -------> acceptance and appreciation of a gift
+emotional distance ----SHIFTS TO -------> gift reception
 
 need to be seen and appreciated ---------- SHIFTS TO --------> being appreciated, baffled, humbled (positively)
 
