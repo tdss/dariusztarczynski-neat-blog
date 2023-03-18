@@ -14,11 +14,11 @@ Understaing human behavior, social psychology and psychiatry was his hobby for m
 
 Effects of a simple game-like mechanics on his coworkers was astonishing, and since then he tested various implementations of different gamification concepts both in business world and personal development.
 
-After studying current gamification fameworks, Dariusz noticed that the current state of the knowledge is still too immature for efficient business consulting, and started creating the **Emotional Shift** framework.
+After studying current gamification fameworks, Dariusz noticed that the current state of the knowledge is still too immature for efficient business consulting, and started creating the **Emotion Shift** framework.
 
-**Emotional Shift** is a framework that focues not on the techniques used, or functionalities, but on transforming specific user states.
+**Emotion Shift** is a framework that focues not on the techniques used, or functionalities, but on transforming specific user states.
 
-You can learn about [how Emotional Shift compares to Octalysis here](/octalysis-vs-emotion-shift-framework.html).
+You can learn about [how Emotion Shift compares to Octalysis here](/octalysis-vs-emotion-shift-framework.html).
 
 
 Also learn more about his [gamification consulting](/gamification-consulting.html) services.
