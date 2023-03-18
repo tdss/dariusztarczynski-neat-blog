@@ -114,4 +114,6 @@ And no, you don't have to be posting cool videos 3 times a day to gather attenti
 
 ## Lets prove this.
 
+![my linkedin profile ](/static/img/screenshot-2023-03-18-at-19.50.57.png)
+
 As of the day of writing this post (18.03.2023), my profile has 1758 followers. I will be creating and tracking effectiveness of Emotion Shift framework on this blog, and submiting updates here (instead of linkedin) to make sure that the test is fair. Stay around for the updates!
