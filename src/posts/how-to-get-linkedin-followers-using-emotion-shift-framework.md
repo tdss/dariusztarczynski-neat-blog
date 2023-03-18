@@ -84,7 +84,7 @@ fear  ------- SHIFTS TO ---------->  comforting news "you got it", "all obstacle
 
 emotional distance ----SHIFTS TO -------> gift reception
 
-need to be seen and appreciated ---------- SHIFTS TO --------> being appreciated, baffled, humbled (positively)
+need to be seen and appreciated ---------- SHIFTS TO --------> being appreciated, baffled, humbled (positively), getting taught how to succeed (on linkedin and in life)
 
 Ok, looks like, the only thing we need to do to attract typical CEO, who is going through various different emotions while browsing linkedin is:
 
