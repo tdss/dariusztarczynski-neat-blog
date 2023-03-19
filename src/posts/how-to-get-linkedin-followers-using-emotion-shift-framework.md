@@ -89,7 +89,7 @@ need to be seen and appreciated ---------- SHIFTS TO --------> being appreciated
 Ok, looks like the only thing we need to do, to attract typical CEO, who is going through various different emotions while browsing linkedin is:
 
 1. Make him part of something successful he can be engaged about. Tell a story about struggle transforming into success. Tell a story about what success is (where leader shows example).
-2. Engage only after at least one like. Give him a gift. And ask how you can help.
+2. Engage only after at least one interaction with both of you engaged (liking the same post at least?). Have something to actually give instead of ask. And ask how you can help.
 3. Appreciate him publicly, put him on pedestal, so he can say thanks
 
 ## Why are we doing this?
@@ -105,3 +105,39 @@ And no, you don't have to be posting cool videos 3 times a day to gather attenti
 ![my linkedin profile ](/static/img/screenshot-2023-03-18-at-19.50.57.png)
 
 As of the day of writing this post (18.03.2023), my profile has 1758 followers. I will be creating and tracking effectiveness of Emotion Shift framework on this blog, and submiting updates here (instead of linkedin) to make sure that the test is fair. Stay around for the updates!
+
+
+
+### Extra: creating a subgroup
+
+If you think that the group we have targeted is still way too large for your needs, you now have an easy way forward for reduce it by specifying one truth about this person and extra emotions he may be going through, lets see.
+
+Lets consider that you provide a software & consulting solution that is supposed to improve company culture around the world. You want to create a subgroup of CEO's who are consicious about the issue and are looking for a solution. Someone for whom the word "empathy" is not only a dictionary item. Someone who is emotional about other people issues and trying to help them. Active, social, leader.
+
+So lets add some emotions he might have been experiencing:
+
+\- empathy (seeing people being mistreated as of effect of some business practices)
+
+\- powerless (facing bad things happening to workplace culture globally)
+
+\- agitated (when trying to express their opinion related to their view of leadership)
+
+
+
+How are we going to shift these emotinos?
+
+empathy ------ SHIFTS TO ---------> commitment 
+
+powerless --------- SHIFTS TO --------> feeling of being part of something positive that is growing
+
+agitation --------- SHIFTS TO --------> feeling of being understood
+
+
+
+Turns out that if you want to create a valuable relationship with a CEO who is well engaged in culture and people's problems, you need to look for the following actions:
+
+4. commitment - when seeing posts about employee being mistreated, make comments that are provoking discussion in the field of commitment "How would you do this different?"
+
+5. part of groving positive action - prepare comments and posts that showcase good examples of company culture growth
+
+6. When responding for this person own posts, put emphasis on understanding where they are coming form.
