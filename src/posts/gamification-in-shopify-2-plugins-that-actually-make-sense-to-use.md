@@ -67,6 +67,9 @@ DEMO STORE: <https://smile-io-demo-store.myshopify.com/>
 
 API access: upon request at the highest package $599usd a month
 
+Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b0wHVIXD87w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## G﻿ameball
 
 ![](/static/img/gameball-shopify-gamification-syste.png)
