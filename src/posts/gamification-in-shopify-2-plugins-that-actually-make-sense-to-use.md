@@ -77,6 +77,11 @@ DEMO STORE: <https://gameball-loyalty.myshopify.com/>
 
 API DOCUMENTATION: <https://developer.gameball.co/>
 
+Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pWgM6gOSMdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
 ## C﻿omparison between the systems. Which one is better?
 
 I﻿n terms of popularity Smile.io is a clear winner, with almost 5000 reviews averaging 4.8 rating, it is clear that this systems does very well for his users. On ther other hand, Gameball seems to be just starting to get traction with a little bit over 180 reviews - and also very high rating of 4.8.
