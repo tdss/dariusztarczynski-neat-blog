@@ -16,10 +16,6 @@ In this comprehensive article, we will delve into the world of sales gamificatio
 
 ## Ambition
 
-Visit website: <https://ambition.com/>
-
-Pricing: Starting at $75 per user per month at a basic plan
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X_m8Vnc1ZBI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Ambition is a cutting-edge sales gamification platform designed to elevate sales team performance by harnessing the power of real-time data, goal-setting, and friendly competition. Focused on driving engagement, motivation, and productivity, Ambition offers a comprehensive solution to help organizations create a dynamic and goal-oriented sales culture.
@@ -52,6 +48,10 @@ See by yourself:
 * PVP GAMES AND COMPETITIONS
 
   ![Ambition sales gamification competition example](/static/img/brave_hay1o1g3va.png)
+
+Pricing: Starting at $75 per user per month at a basic plan
+
+Visit the website: <https://ambition.com/>
 
 
 
