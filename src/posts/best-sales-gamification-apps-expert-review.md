@@ -20,7 +20,7 @@ In this comprehensive article, we will delve into the world of sales gamificatio
 
 Ambition is a cutting-edge sales gamification platform designed to elevate sales team performance by harnessing the power of real-time data, goal-setting, and friendly competition. Focused on driving engagement, motivation, and productivity, Ambition offers a comprehensive solution to help organizations create a dynamic and goal-oriented sales culture.
 
-Key features of Ambition include:
+**Key features of Ambition include:**
 
 Personalized Scorecards: Ambition's unique scorecard system enables organizations to set individual, team, and company-wide goals, tracking progress and performance against Key Performance Indicators (KPIs) in real-time. This data-driven approach allows sales reps to understand their strengths and areas for improvement, while empowering managers with insights to provide targeted coaching and support.
 
@@ -32,7 +32,7 @@ Integration and Analytics: Ambition seamlessly integrates with popular CRM syste
 
 By providing a dynamic and engaging environment, Ambition helps organizations unlock the full potential of their sales teams, boosting motivation, collaboration, and ultimately, driving better results.
 
-See by yourself:
+**App screenshots**
 
 * TV SCREENS
 
@@ -67,10 +67,27 @@ SalesScreen is a robust and versatile sales gamification platform that aims to e
 *Integrations and API*: SalesScreen integrates seamlessly with popular CRM systems, sales tools, and communication platforms, ensuring smooth data synchronization and collaboration across the organization.
 *Mobile App*: The platform's mobile app keeps sales reps engaged and informed on-the-go, enabling them to track their progress, receive notifications, and participate in contests from their mobile devices.
 
+**App screenshots:**
+
+* **Competitions**
+
+  ![salesscreen gamification competitions](/static/img/brave_bho38feyix.png)
+
+  ![salesscreen gamification competitions, view](/static/img/brave_niegexq5mu.png)
+* **Coin system / store / rewards**
+
+  ![salesscreen coin system store and rewards](/static/img/brave_oj01yedlrt.png)
+* **Coaching module**
+
+  ![salesscreen sales gamification coaching consulting module](/static/img/brave_uprlg5zj4r.png)
+* **Mobile app**
+
+  ![salesscreen sales gamification mobile app view](/static/img/brave_s58fxsjgrh.png)
+
 
 **Pricing:**
 
-SalesScreen offers custom pricing based on the specific needs and requirements of each organization. For detailed pricing information, potential clients are encouraged to contact the SalesScreen sales team through their website.
+Starting at $99 per user per month on the basic plan.
 
 **Website:**
 
