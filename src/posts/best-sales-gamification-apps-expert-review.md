@@ -8,11 +8,17 @@ date: 2023-03-23T16:30:47.863Z
 tags:
   - Gamification
 ---
+## Introduction
+
 ## Ambition
+
+Visit website: <https://ambition.com/>
+
+Pricing: Starting at $75 per user per month at a basic plan
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X_m8Vnc1ZBI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
+Summary
 
 What's included:
 
@@ -31,10 +37,6 @@ What's included:
 
   ![Ambition sales gamification competition example](/static/img/brave_hay1o1g3va.png)
 * SALESFORCE INTEGRATION (WITH HIERARCHY)
-
-
-
-
 
 ## SalesScreen
 
