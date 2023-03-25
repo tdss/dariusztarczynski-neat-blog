@@ -32,8 +32,6 @@ Integration and Analytics: Ambition seamlessly integrates with popular CRM syste
 
 By providing a dynamic and engaging environment, Ambition helps organizations unlock the full potential of their sales teams, boosting motivation, collaboration, and ultimately, driving better results.
 
-
-
 See by yourself:
 
 * TV SCREENS
@@ -53,11 +51,34 @@ Pricing: Starting at $75 per user per month at a basic plan
 
 Visit the website: <https://ambition.com/>
 
-
-
 ## SalesScreen
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VwWZVi2z5AU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+**Brief description of the product:**
+
+SalesScreen is a robust and versatile sales gamification platform that aims to enhance productivity, engagement, and motivation among sales teams by transforming daily tasks into exciting and rewarding experiences. By integrating elements of competition, collaboration, and recognition, SalesScreen fosters a high-performance sales culture that drives results.
+
+**List of key features:**
+
+*Sales Competitions*: SalesScreen offers a wide range of customizable contests and challenges, designed to encourage friendly competition and keep sales teams motivated to reach their goals.
+*Leaderboards and Recognition*: Real-time leaderboards showcase individual and team achievements, while a range of customizable rewards and recognition options help reinforce positive behaviors and celebrate successes.
+*Customizable Dashboards*: SalesScreen provides user-friendly dashboards, enabling sales reps and managers to track progress, visualize performance, and identify trends.
+*Integrations and API*: SalesScreen integrates seamlessly with popular CRM systems, sales tools, and communication platforms, ensuring smooth data synchronization and collaboration across the organization.
+*Mobile App*: The platform's mobile app keeps sales reps engaged and informed on-the-go, enabling them to track their progress, receive notifications, and participate in contests from their mobile devices.
+
+
+**Pricing:**
+
+SalesScreen offers custom pricing based on the specific needs and requirements of each organization. For detailed pricing information, potential clients are encouraged to contact the SalesScreen sales team through their website.
+
+**Website:**
+
+<https://www.salesscreen.com/>
+
+**Final summary:**
+
+SalesScreen is a comprehensive sales gamification platform that combines competition, collaboration, and recognition to drive sales team engagement and performance. With a range of customizable features, seamless integrations, and a user-friendly mobile app, SalesScreen provides a dynamic and motivating solution for organizations seeking to boost productivity and elevate their sales culture.
 
 ## Hoopla
 
