@@ -1,5 +1,5 @@
 ---
-title: 2 Best Gamification Apps for Shopify - in 2023 - comparison
+title: 2 Best Loyalty Gamification Shopify Apps - in 2023 - comparison
 description: Out of number of shopify gamification plugins, I picked 2 that I
   think make the most sense to use. Lets compare them
 author: Dariusz Tarczyński
@@ -67,6 +67,9 @@ DEMO STORE: <https://smile-io-demo-store.myshopify.com/>
 
 API access: upon request at the highest package $599usd a month
 
+Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b0wHVIXD87w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## G﻿ameball
 
 ![](/static/img/gameball-shopify-gamification-syste.png)
@@ -76,6 +79,11 @@ SHOPIFY APP: <https://apps.shopify.com/gameball>
 DEMO STORE: <https://gameball-loyalty.myshopify.com/>
 
 API DOCUMENTATION: <https://developer.gameball.co/>
+
+Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pWgM6gOSMdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 
 ## C﻿omparison between the systems. Which one is better?
 

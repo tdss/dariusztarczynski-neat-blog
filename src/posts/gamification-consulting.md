@@ -2,7 +2,7 @@
 title: Gamification Consulting
 thumbnail: /static/img/brave_xzpwqtjnck.png
 description: Gamification Consulting services. Explore, define and guide your
-  gamification process with Emotional Shift framework
+  gamification process with Emotion Shift framework
 author: Dariusz Tarczyński
 date: 2023-02-21T20:08:44.485Z
 tags:

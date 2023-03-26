@@ -18,14 +18,14 @@ It belongs to the "early adopters" group, from times where gamification was term
 It can explain current gamification systems in a very easy and visual way, just like SWOT analysis in business management.
 
 
-**Emotional Shift** is a framework that focues not on the techniques used, or functionalities, but on transforming specific user states.
+**EmotionaShift** is a framework that focues not on the techniques used, or functionalities, but on transforming specific user states.
 
-Contrary to **Octalysis** which is focused on design-first approach to gamificaiton, **Emotional Shift** framework puts user emotional state and his history in the first place.
+Contrary to **Octalysis** which is focused on design-first approach to gamificaiton, **Emotion Shift** framework puts user emotional state and his history in the first place.
 
 
-**3 steps to implement the Emotional Shift Framework**:
+**3 steps to implement the Emotion Shift Framework**:
 - pick "emotional persona" from the table
-- use **Emotional Shift** chart to define target emotions you want to trigger
+- use **Emotion Shift** chart to define target emotions you want to trigger
 - apply only those gamification techniques that align with these emotions.
 
 
@@ -50,12 +50,12 @@ Just like in video games. Some preffer puzzles, some would like to see more acti
 
 While **Octalysis framework** provides great visual representation of different tehcnics used, it doesn't fully respond to "why?" question.
 
-The **"Emotional Shift"** gamification design framework has been built to delivery the "why?" before the "what?" and use that to maximise gamification in environments, that can use only "light gamification' and can't use everything.
+The **"Emotion Shift"** gamification design framework has been built to delivery the "why?" before the "what?" and use that to maximise gamification in environments, that can use only "light gamification' and can't use everything.
 
 
 
 
-To learn more about **"Emotional Shift" gamification framework**, simply book a paid consultation from here: https://calendly.com/dariusz-tdsoft/60-minute-consultation
+To learn more about **"Emotion Shift" gamification framework**, simply book a paid consultation from here: https://calendly.com/dariusz-tdsoft/60-minute-consultation
 
 Is it even to early for this step for you? Feel free to use a free 30-minute "lets get to know each other" meeting, to exchange some early thougths: https://calendly.com/dariusz-tdsoft/meeting-with-dariusz
 
