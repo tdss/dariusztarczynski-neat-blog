@@ -1,8 +1,14 @@
 ---
 links:
-  - title: Recent blog posts
-    url: "/gamification-news/"
-    desc: Check out my recent gamification findings that I publish on my blog.
+  - title: Loyalty Systems
+    url: "/gamification-news/?path=loyalty"
+    desc: Loyalty systems, gamification. Research, analysis and expert advice.
+  - title: Digital Strategy
+    url: "/gamification-news/?path=digital-strategy"
+    desc: Define the core elements of your digital strategy roadmap.
+  - title: Behavioral analysis
+    url: "/gamification-news/?path=behavioral-analysis"
+    desc: Observe, understand and predict behavior of your users.
   - title: LinkedIn profile
     target: _blank
     url: "https://www.linkedin.com/in/dariusztarczynski/"
