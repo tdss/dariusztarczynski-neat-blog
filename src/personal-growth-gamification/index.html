@@ -4,9 +4,21 @@ layout: blog
 ---
 
 <section class="mt-15">
+    <article class="mt-8 mb-12">
+        <p class="text-lg leading-6 text-gray-900 mb-3">
+            Personal growth and personal development are the best areas to start with your gamification yourney!
+        </p>
+        <p class="text-lg leading-6 text-gray-900 mb-3">
+            Not only you will learn the gamification technics, but also you will notice how they affect you, giving you much more knowledge on the subject than plain article reading.
+        </p>
+        <p class="text-lg leading-6 text-gray-900 mb-3">
+            There is nothing to lose here, so lets start with personal development yourney using gamification!
+        </p>
+    </article>
     {% set postslist = collections.post %}
 
     {% for post in postslist | reverse %}
+    {% if post.data.tags | hasTag('Personal-Growth-Gamification') %}
     {% if not post.data.secret %}
         <article class="my-8">
             <h2 class="font-bold text-3xl text-gray-900 mb-2">
@@ -39,6 +51,7 @@ layout: blog
             </p>
 
         </article>
+    {% endif %}
     {% endif %}
     {% endfor %}
 </section>
