@@ -6,7 +6,7 @@ description: Use Emotion Shift framework to build effective Linkedin post
 author: Dariusz Tarczyński
 date: 2023-03-18T16:12:00.876Z
 tags:
-  - Emotion Shift
+  - Customer-Loyalty-Gamification
 ---
 Linkedin is the most popular business-oriented social media in the world. This constantly growing network keeps people engaged, and gives many people hope to make more connections and sales.
 

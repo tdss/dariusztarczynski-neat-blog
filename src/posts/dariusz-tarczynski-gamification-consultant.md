@@ -4,7 +4,7 @@ description: Gamification Consulting allows your company to avoid costly mistake
 author: Dariusz Tarczyński
 date: 2023-02-21T20:08:44.485Z
 tags:
-  - Gamification Consulting
+  - Company-Culture-Gamification
 ---
 **About Dariusz Tarczyński**
 

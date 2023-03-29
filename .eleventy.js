@@ -17,6 +17,10 @@ module.exports = function (eleventyConfig) {
     );
   });
 
+  eleventyConfig.addFilter("hasTag", (tags, tag) => {
+    return (tags || []).includes(tag);
+  });
+
   // Syntax Highlighting for Code blocks
   eleventyConfig.addPlugin(syntaxHighlight);
 

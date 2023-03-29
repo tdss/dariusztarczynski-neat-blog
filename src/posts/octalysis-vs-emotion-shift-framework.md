@@ -4,7 +4,7 @@ description: How does Octalysis framework popare to another popular Emotion Shif
 author: Dariusz Tarczyński
 date: 2023-02-21T20:08:44.485Z
 tags:
-  - Gamification
+  - Customer-Loyalty-Gamification
 ---
 **How does Octalysis compare to the Emotion Shift Framework**
 

@@ -6,7 +6,7 @@ description: "M﻿any companies are going through the same process: a highly
 author: Dariusz Tarczyński
 date: 2023-03-10T18:10:34.474Z
 tags:
-  - Gamification
+  - Company-Culture-Gamification
 ---
 ## C﻿urrent state of things
 

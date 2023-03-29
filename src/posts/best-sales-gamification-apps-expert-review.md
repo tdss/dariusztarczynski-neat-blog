@@ -6,7 +6,7 @@ description: How sales gamification apps compare to each other in terms of the
 author: Dariusz Tarczyński
 date: 2023-03-23T16:30:47.863Z
 tags:
-  - Gamification
+  - Customer-Loyalty-Gamification
 ---
 ## Introduction
 

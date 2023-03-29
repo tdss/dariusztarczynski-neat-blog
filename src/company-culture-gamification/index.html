@@ -1,0 +1,56 @@
+---
+title: Company Culture
+layout: blog
+---
+
+<section class="mt-15">
+    <article class="my-8">
+        <p class="text-base leading-6 text-gray-900 mb-3">
+            Can we use gamification to create or grow a company culture? For sure we can! I've been testing the impact of gamification on company culture over the last 4 years. We have even created our own product called <a href="https://ogamify.com"></a>OGAMIFY</a>, that allows us to test various gamification technics and their impact on the team.  
+        </p>
+        <p class="text-base leading-6 text-gray-900 mb-3">
+            Company culture goes through tough times currently. Remote work adoptation helps on one end, but causes a lot of long-term issues on the other. 
+            <br/><br/>You can also watch a short video I made about the topic:<br/>
+            <iframe width="100%" height="415" src="https://www.youtube-nocookie.com/embed/NszJ9Tu9zgM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </p>
+    </article>
+    {% set postslist = collections.post %}
+
+    {% for post in postslist | reverse %}
+    {% if post.data.tags | hasTag('Company-Culture-Gamification') %}
+    {% if not post.data.secret %}
+        <article class="my-8">
+            <h2 class="font-bold text-3xl text-gray-900 mb-2">
+                <a href="{{ post.url | url }}">
+                    {% if post.data.title %}
+                        {{ post.data.title }}
+                    {% else %}
+                        Untitled
+                    {% endif %}
+                </a>
+            </h2>
+            <p class="text-base leading-6 text-gray-500 mb-3">
+                <time>
+                    {{ post.date | readableDate }}
+                    by
+                    <a>{{ post.data.author }}</a>
+
+                </time>
+            </p>
+            {% if post.data.description %}
+                <p class="text-lg text-gray-500 mb-3">
+                    {{ post.data.description }}
+                </p>
+            {% endif %}
+
+            <p>
+                <a href="{{ post.url | url }}" class="text-indigo-500 font-bold text-lg">
+                    Read more →
+                </a>
+            </p>
+
+        </article>
+    {% endif %}
+    {% endif %}
+    {% endfor %}
+</section>

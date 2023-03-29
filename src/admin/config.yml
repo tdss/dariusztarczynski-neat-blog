@@ -31,7 +31,7 @@ collections:
         name: "tags"
         multiple: true
         create: true
-        options: ["Gamification", "Emotion Shift", "E-commerce gamification", "Gamification consulting", "Mobile apps gamification"]
+        options: ["Gamification Transition", "Addiction Prevention Gamification", "Company Culture Gamification", "Customer Loyalty Gamification", "Personal Growth Gamification"]
   - label: "Settings"
     name: "settings"
     editor:

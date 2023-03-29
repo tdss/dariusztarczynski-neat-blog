@@ -6,7 +6,7 @@ description: Gamification can bring great results, but only if implemented
 author: Dariusz Tarczyński
 date: 2023-03-12T15:47:45.174Z
 tags:
-  - Gamification consulting
+  - Customer-Loyalty-Gamification
 ---
 
 

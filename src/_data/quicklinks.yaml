@@ -1,14 +1,20 @@
 ---
 links:
-  - title: Loyalty Consulting
-    url: "/gamification-news/?path=loyalty"
-    desc: Loyalty systems, gamification. Research, analysis and expert advice.
-  - title: Digital Strategy
-    url: "/gamification-news/?path=digital-strategy"
-    desc: Define the core elements of your digital strategy roadmap.
-  - title: Behavioral analysis
-    url: "/gamification-news/?path=behavioral-analysis"
-    desc: Observe, understand and predict behavior of your users.
+  - title: Playful Transition
+    url: "/gamification-transition/"
+    desc: Change anything in the world, and have fun doing so.
+  - title: Customer Loyalty
+    url: "/customer-loyalty-gamification/"
+    desc: Turn users into players and provide space for engagement.
+  - title: Company Culture
+    url: "/company-culture-gamification/"
+    desc: Gamify to let employees to help your company move forward.
+  - title: Personal Growth
+    url: "/personal-growth-gamification/"
+    desc: Your personal growth should not be based on your motivation.
+  - title: Addiction Prevention
+    url: "/addiction-prevention-gamification"
+    desc: Notice how services are built to make you addicted. React.
   - title: LinkedIn profile
     target: _blank
     url: "https://www.linkedin.com/in/dariusztarczynski/"

@@ -1,8 +1,6 @@
 ---
 items:
-  - text: Gamification Consulting Services
-    url: "/gamification-consulting"
+  - text: Gamification For...
+    url: "/"
   - text: Get my book
     url: "/real-life-gamification"
-  - text: Articles
-    url: "/gamification-news"
