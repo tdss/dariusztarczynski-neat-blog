@@ -1,7 +1,9 @@
 ---
 title: Track your personal goals with a help of gamification
+featuredImage: /static/img/1676288871657.jpg
 secret: false
-description: Gamification can help you define and stick to your life goals. You only need to understand a few core principles
+description: Gamification can help you define and stick to your life goals. You
+  only need to understand a few core principles
 author: Dariusz Tarczyński
 date: 2023-03-29T16:30:47.863Z
 tags:
