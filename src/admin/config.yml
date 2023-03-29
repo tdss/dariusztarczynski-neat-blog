@@ -20,6 +20,7 @@ collections:
       preview: false
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Featured Image", name: "featuredImage", widget: "image" }
       - { label: "Canonical", name: "canonical", widget: "string", required: false }
       - { label: "IsSecret", name: "secret", widget: "boolean", required: false, default: false }
       - { label: "Description", name: "description", widget: "string" }
