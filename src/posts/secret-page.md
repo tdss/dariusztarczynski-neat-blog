@@ -14,3 +14,5 @@ tags:
 I﻿t is not about the quantity, but about the quality, understanding the user, and knowing how to lead him through the app.
 
 H﻿ave an amazing rest of the day!
+
+k
