@@ -17,7 +17,7 @@ Small rewards are much better drivers of motivation than the big one.
 
 ### Festinger & Carlsmith's Study (1954)
 
-71 participants of the experiment were asked to do a very boring task.
+A total of 71 participants of the experiment were asked to do a very boring task.
 
 Half of them got a normal description of this task, the second half had got it described as something very enjoyable.
 
@@ -30,3 +30,17 @@ The first group was offered just 1$ to take the position of the experimenter and
 The second group was offered 20$ for the same ask.\
 \
 **Results**
+
+![results of Festinger & Carlsmith's test](/static/img/brave_laol8sf8t6.png)
+
+
+
+Turned out that after the study, the group that got offered 1$ found the task much more enjoyable, than the group that got 20$ or even the control group. Moreover, only the 1$ created a bias, where participant would say they would participate in similar experiment again.
+
+
+
+**Conclusion**
+
+Small rewards work so much better because of the so-called cognitive dissonance effect.
+
+We are not rational. We are rationalizers. Getting offered low reward, forces our brain to rationalize our actions, and creates new internal "why", that then can be a long-lasting source of motivation.
