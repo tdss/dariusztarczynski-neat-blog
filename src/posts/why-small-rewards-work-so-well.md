@@ -28,6 +28,8 @@ The rest was split into 2 groups:
 The first group was offered just 1$ to take the position of the experimenter and try to describe the task like it is something joyful.
 The second group was offered 20$ for the same ask.
 
+*Festinger, L. and Carlsmith, J. M. (1959). "Cognitive consequences of forced compliance". Journal of Abnormal and Social Psychology, 58, 203-211.*
+
 ## **Results**
 
 ![results of Festinger & Carlsmith's test](/static/img/brave_laol8sf8t6.png)
