@@ -1,13 +1,14 @@
 ---
 title: Why gamification works?
 thumbnail: /static/img/luxury-monty-python.gif
+featuredImage: /static/img/1676288871657.jpg
 description: Capitalize on low hanging fruit to identify a ballpark value added
   activity to beta test. Override the digital divide with additional
   clickthroughs from DevOps.
 author: Dariusz Tarczyński
 date: 2023-02-21
 tags:
-  - Gamification
+  - Gamification Tips
 ---
 **The Prospect Theory** introduced by Kahnemann and Tversky explains it best.
 
