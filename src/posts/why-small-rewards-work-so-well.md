@@ -11,7 +11,7 @@ tags:
 ---
 ## **Claim**
 
-Small rewards are much better drivers of motivation than the big one.
+Small rewards are much better drivers of motivation than the big ones.
 
 ## **Study**
 
