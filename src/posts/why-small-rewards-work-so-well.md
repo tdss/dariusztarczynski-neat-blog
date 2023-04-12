@@ -41,3 +41,9 @@ Turned out that after the study, the group that got offered 1$ found the task mu
 Small rewards work so much better because of the so-called cognitive dissonance effect.
 
 We are not rational. We are rationalizers. Getting offered low reward, forces our brain to rationalize our actions, and creates new internal "why", that then can be a long-lasting source of motivation.
+
+## Useful reads
+
+<https://www.psychologytoday.com/ca/blog/unconscious-branding/202210/why-small-incentives-can-work-better-big-ones> - provides more examples of studies on small rewards
+
+<https://explorable.com/cognitive-dissonance> - discusses the above mentioned research and general term of cognitive dissonance
