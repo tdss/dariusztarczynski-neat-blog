@@ -9,13 +9,13 @@ date: 2023-04-12T07:40:26.390Z
 tags:
   - Gamification Tips
 ---
-**Claim**
+## **Claim**
 
 Small rewards are much better drivers of motivation than the big one.
 
-**Study**
+## **Study**
 
-### Festinger & Carlsmith's Study (1954)
+**Festinger & Carlsmith's Study (1954)**
 
 A total of 71 participants of the experiment were asked to do a very boring task.
 
@@ -25,21 +25,16 @@ After a very long hour of the test, some of the participants were asked to finis
 
 The rest was split into 2 groups:
 
-The first group was offered just 1$ to take the position of the experimenter and try to describe the task like it is something joyful.\
-\
-The second group was offered 20$ for the same ask.\
-\
-**Results**
+The first group was offered just 1$ to take the position of the experimenter and try to describe the task like it is something joyful.
+The second group was offered 20$ for the same ask.
+
+## **Results**
 
 ![results of Festinger & Carlsmith's test](/static/img/brave_laol8sf8t6.png)
 
-
-
 Turned out that after the study, the group that got offered 1$ found the task much more enjoyable, than the group that got 20$ or even the control group. Moreover, only the 1$ created a bias, where participant would say they would participate in similar experiment again.
 
-
-
-**Conclusion**
+## **Conclusion**
 
 Small rewards work so much better because of the so-called cognitive dissonance effect.
 
