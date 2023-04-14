@@ -41,9 +41,9 @@ Students become less-excited about learning once they receive a grade.
 
 ## Interesting sources
 
-https://www.nytimes.com/2018/10/27/opinion/sunday/science-rewards-behavior.html - Article by New York Times that sums up some of the "failed" research on rewards, describing where rewards did not provide the expected outcome. NOTE: The opinion stated there is just what it is: 'opinion'.
+[https://www.nytimes.com/2018/10/27/opinion/sunday/science-rewards-behavior.html ](https://www.nytimes.com/2018/10/27/opinion/sunday/science-rewards-behavior.html)- Article by New York Times sums up some of the "failed" research on rewards, describing where rewards did not provide the expected outcome. NOTE: The opinion stated there is just what it is: 'opinion'.
 
-https://maryannjacobsen.com/does-rewarding-kids-to-eat-healthy-backfire-what-the-research-says/ - Interesting summary of research on effects of rewards on food habits.
+<https://maryannjacobsen.com/does-rewarding-kids-to-eat-healthy-backfire-what-the-research-says/> - Interesting summary of research on the effects of rewards on food habits.
 
 *Choi, Jongwoon and Presslee, Adam, When and why tangible rewards can motivate greater effort than cash rewards: An analysis of four attribute differences (May 1, 2022). AAA 2016 Management Accounting Section (MAS) Meeting Paper, 2016 Canadian Academic Accounting Association (CAAA) Annual Conference, Available at SSRN: <https://ssrn.com/abstract=2645966> or [http://dx.doi.org/10.2139/ssrn.2645966](https://dx.doi.org/10.2139/ssrn.2645966)*
 
