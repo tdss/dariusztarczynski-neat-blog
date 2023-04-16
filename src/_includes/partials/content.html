@@ -1,9 +1,29 @@
-<div class="w-full max-w-2xl grid grid-cols-1 lg:grid-cols-2 gap-4 my-8 px-4 lg:mx-0">
-
+<div class="w-full max-w-2xl grid grid-cols-1 lg:grid-cols-2 gap-4 mt-8 px-4 lg:mx-0">
+    <h2 class="p-5">Gamification articles</h2> 
+    <p class="p-5">Once in a while I feel the need to write. Share things that I have learned or researched by myself. I hope these make a good read, and will help you dive into the world of the real-life gamification.</p>
     {% if quicklinks.links %}
 
         {% for item in quicklinks.links %}
             <a href="{{item.url}}" target="{{item.target}}" class="p-5 border rounded border-gray-200 hover:border-purple-400">
+                <h2>{{item.title}}
+                    →</h2>
+                <p>{{item.desc}}</p>
+            </a>
+        {% endfor %}
+
+    {% endif %}
+        </div>
+    <div class="w-full max-w-2xl grid grid-cols-1 gap-4 mt-8 px-4 lg:mx-0">
+
+        <h2 class="p-5">Gamification services</h2> 
+        <p class="px-5">Behavioral psychology is the foundation of gamification and other engagement tools. It takes years of experience and study to get a hunch of what strategies might work and where. Below is a list of services you can request from me, if you are looking for a professional help.</p>
+        </div>
+    <div class="w-full max-w-2xl grid grid-cols-1 lg:grid-cols-2 gap-4 my-8 px-4 lg:mx-0">
+
+    {% if services.links %}
+
+        {% for item in services.links %}
+            <a href="{{item.url}}" target="{{item.target}}" class="p-5 border rounded border-red-400 hover:border-purple-400">
                 <h2>{{item.title}}
                     →</h2>
                 <p>{{item.desc}}</p>

@@ -3,22 +3,12 @@ links:
   - title: Quick Tips
     url: "/gamification-tips/"
     desc: Research packaged in small easy to consume chunks
-  - title: Playful Transition
-    url: "/gamification-transition/"
-    desc: Change anything in the world, and have fun doing so.
   - title: Customer Loyalty
     url: "/customer-loyalty-gamification/"
     desc: Turn users into players and provide space for engagement.
   - title: Company Culture
     url: "/company-culture-gamification/"
     desc: Gamify to let employees to help your company move forward.
-  - title: Personal Growth
-    url: "/personal-growth-gamification/"
-    desc: Your personal growth should not be based on your motivation.
-  - title: Addiction Prevention
-    url: "/addiction-prevention-gamification"
-    desc: Notice how services are built to make you addicted. React.
-  - title: LinkedIn profile
-    target: _blank
-    url: "https://www.linkedin.com/in/dariusztarczynski/"
-    desc: Find my LinkedIn profile with new posts about gamification
+  - title: The Book
+    url: "/real-life-gamification/"
+    desc: Download "Real-life Gamification".
