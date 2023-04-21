@@ -37,9 +37,13 @@ The old saying that it is better to under-promise and over-deliver is pure wisdo
 
 If you do the opposite, the "negative surprise" will put a lot of weight on your business development.
 
+
+
 ## Surprise is the way to nurture passionate relationships
 
 Romance is all about surprise. If you consider the act of proposing, it is almost certain, that the proposing spouse will pick a moment or scenery, that would be to some extent unpredicted.
+
+
 
 ## Surprise triggers learning!
 
