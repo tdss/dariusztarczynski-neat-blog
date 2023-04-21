@@ -27,4 +27,4 @@ To use the template, all you need to do is download it from the internet and ope
 
 ## Conclusion
 
-Tracking your daily progress is an essential part of achieving your goals. With the help of the free Excel template we have introduced in this blog post, you can easily monitor your progress and stay motivated to achieve your goals. So, download the template today and start tracking your progress towards a better tomorro
+Tracking your daily progress is an essential part of achieving your goals. With the help of the free Excel template we have introduced in this blog post, you can easily monitor your progress and stay motivated to achieve your goals.
