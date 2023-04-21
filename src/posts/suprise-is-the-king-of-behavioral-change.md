@@ -37,13 +37,9 @@ The old saying that it is better to under-promise and over-deliver is pure wisdo
 
 If you do the opposite, the "negative surprise" will put a lot of weight on your business development.
 
-
-
 ## Surprise is the way to nurture passionate relationships
 
 Romance is all about surprise. If you consider the act of proposing, it is almost certain, that the proposing spouse will pick a moment or scenery, that would be to some extent unpredicted.
-
-
 
 ## Surprise triggers learning!
 
@@ -67,8 +63,6 @@ Children are so addicted ( maybe, lets use the safe word "conditioned" ?) to the
 
 It is good to ask yourself this question. Good marketers know how to use the power of surprise to increase customer loyalty.
 
-
-
 ## Sources:
 
 McClure SM, York MK, Montague PR. The Neural Substrates of Reward Processing in Humans: The Modern Role of fMRI. *The Neuroscientist*. 2004;10(3):260-268. doi:[10.1177/1073858404263526](https://doi.org/10.1177/1073858404263526) - [full text here](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=fbf6c4ed6b8b4f494b7563a8f1716a6be31641ec) 
@@ -80,3 +74,5 @@ NEVO, I., & EREV, I. 2012. On surprise, change, and the effect of recent outcome
 <http://www.ccnl.emory.edu/Publicity/MSNBC.HTM> - another interesting article on the effects of surprise
 
 <https://en.wikipedia.org/wiki/Tulip_mania> - Tulip Mania
+
+Picture photo: Photo by Roger Bradshaw on Unsplash
