@@ -7,9 +7,8 @@ description: Gamification can help you define and stick to your life goals. You
 author: Dariusz Tarczyński
 date: 2023-03-29T16:30:47.863Z
 tags:
-  - Personal-Growth-Gamification
+  - Personal Growth Gamification
 ---
-
 ## Introduction
 
 We all have goals we want to achieve, whether they are personal or professional. But sometimes it can be challenging to keep track of our progress and make sure we are on the right track. Fortunately, with the help of an Excel template, you can easily monitor your daily progress and stay motivated to achieve your goals. In this blog post, we will introduce you to a free Excel template that you can use to track your daily progress.
@@ -20,7 +19,9 @@ Tracking your daily progress has several benefits. Firstly, it helps you stay fo
 
 ## Using the Free Excel Template
 
-The free Excel template we recommend using to track your daily progress is called the "Daily Goals Tracker." This template is easy to use and can be customized to suit your goals and preferences. The template has several columns, including the date, the goal you want to achieve, the action steps you need to take, and a column for tracking your progress. You can enter your data for each day, and the template will automatically calculate your progress towards your goal.
+The free Excel template we recommend using to track your daily progress is called the "Daily Goals Tracker." This template is easy to use and can be customized to suit your goals and preferences. The template has several columns, including the date, the goal you want to achieve, the action steps you need to take, and a column for tracking your progress. You can enter your data for each day, and the template will automatically calculate your progress towards your goal.[](https://docs.google.com/spreadsheets/d/1oi6NFTfg_CyaeMlmOcLJYagvB3mEgNujM4uo0Tmesa8/edit)
+
+**[DOWNLOAD PERSONAL GROWTH GAMIFICATION TEMPLATE](https://docs.google.com/spreadsheets/d/1oi6NFTfg_CyaeMlmOcLJYagvB3mEgNujM4uo0Tmesa8/edit)**
 
 To use the template, all you need to do is download it from the internet and open it in Excel. The template is pre-formatted, so you can start using it right away. All you need to do is enter your goals and the action steps you need to take to achieve them. You can also customize the template to suit your needs by adding or removing columns as required.
 
