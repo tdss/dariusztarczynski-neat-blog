@@ -59,7 +59,11 @@ Children are so addicted ( maybe, lets use the safe word "conditioned" ?) to the
 
 ![a frame from kinder surprise unpacking youtube video](/static/img/brave_kfish89sra.png)
 
-## Homework: How often does your brand surprise your customers?
+## How often does your brand surprise your customers?
+
+It is good to ask yourself this question. Good marketers know how to use the power of surprise to increase customer loyalty.
+
+
 
 ## Sources:
 
