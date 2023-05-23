@@ -8,6 +8,7 @@ author: Dariusz Tarczyński
 date: 2023-04-21T09:41:29.040Z
 tags:
   - Gamification Tips
+  - Frontpage
 ---
 ## MRI scans opened the door to confirm the power of surprise scientifically
 

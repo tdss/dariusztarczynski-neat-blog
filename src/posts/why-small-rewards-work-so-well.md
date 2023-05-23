@@ -8,6 +8,7 @@ author: Dariusz Tarczyński
 date: 2023-04-12T07:40:26.390Z
 tags:
   - Gamification Tips
+  - Frontpage
 ---
 ## **Claim**
 

@@ -8,6 +8,7 @@ description: Capitalize on low hanging fruit to identify a ballpark value added
 author: Dariusz Tarczyński
 date: 2023-02-21
 tags:
+  - Frontpage
   - Gamification Tips
 ---
 **The Prospect Theory** introduced by Kahnemann and Tversky explains it best.

@@ -1,52 +1,65 @@
-<div class="w-full max-w-2xl grid grid-cols-1 lg:grid-cols-2 gap-4 mt-8 px-4 lg:mx-0">
-    <h2 class="p-5">Gamification articles</h2> 
-    <p class="p-5">Once in a while I feel the need to write. Share things that I have learned or researched by myself. I hope these make a good read, and will help you dive into the world of the real-life gamification.</p>
-    {% if quicklinks.links %}
+      
+<div class="w-full max-w-4xl grid grid-cols-1 gap-4 mt-8 px-4 lg:mx-0">
 
-        {% for item in quicklinks.links %}
-            <a href="{{item.url}}" target="{{item.target}}" class="p-5 border rounded border-gray-200 hover:border-purple-400">
-                <h2>{{item.title}}
-                    →</h2>
-                <p>{{item.desc}}</p>
-            </a>
-        {% endfor %}
 
-    {% endif %}
-        </div>
-    <div class="w-full max-w-2xl grid grid-cols-1 gap-4 mt-8 px-4 lg:mx-0">
+{% set postslist = collections.post %}
 
-        <h2 class="p-5">Gamification services</h2> 
-        <p class="px-5">Behavioral psychology is the foundation of gamification and other engagement tools. It takes years of experience and study to get a hunch of what strategies might work and where. Below is a list of services you can request from me, if you are looking for a professional help.</p>
-        </div>
-    <div class="w-full max-w-2xl grid grid-cols-1 lg:grid-cols-2 gap-4 my-8 px-4 lg:mx-0">
+{% for post in postslist | reverse %}
+{% if post.data.tags | hasTag('Frontpage') %}
+{% if not post.data.secret %}
+<article class="my-8 lg:grid lg:grid-cols-12 lg:gap-8">
+    <div class="lg:col-span-5">
+      <p class="text-base leading-6 text-gray-500 mb-3">
+        <time>
+            {{ post.date | readableDate }}
+            by
+            <a>{{ post.data.author }}</a>
 
-    {% if services.links %}
-
-        {% for item in services.links %}
-            <a href="{{item.url}}" target="{{item.target}}" class="p-5 border rounded border-red-400 hover:border-purple-400">
-                <h2>{{item.title}}
-                    →</h2>
-                <p>{{item.desc}}</p>
-            </a>
-        {% endfor %}
-
-    {% endif %}
-
-</div>
-<div class="w-full max-w-2xl grid grid-cols-1 gap-4 mt-8 px-4 lg:mx-0">
-
-    <h2 class="p-5">Gamification tools</h2> 
-    <p class="px-5">Tools that can help you get started with gamification quickly.</p>
+        </time>
+    </p>
     </div>
-<div class="w-full max-w-2xl grid grid-cols-1 lg:grid-cols-2 gap-4 my-8 px-4 lg:mx-0">
+    <div class="lg:col-span-7">
+        <h2 class="font-bold text-3xl text-gray-900 mb-2">
+            <a href="{{ post.url | url }}">
+                {{ post.data.title }}
+            </a>
+        </h2>
+             <p class="text-lg text-gray-500 mb-3">
+                {{ post.data.description }}
+            </p>
+    </div>
+</article>
+{% endif %}
+{% endif %}
+{% endfor %}
+</div>
+<div class="w-full max-w-4xl grid grid-cols-1 gap-4 mt-8 px-4 lg:mx-0">
+
+    <h2 class="py-5">My current toolset</h2> 
+    <p class="">I would never reach this far without these tools, and I am happy to share them. My main problem was always not the intelligence, or speed of work, or even lack of stubborness. The big problem was just me not being able to push through the valley of dullness mid-project, where I already knew the project potential (probably medicore per my standard), and decided to ditch it and "save time". But that was a mistake. So I started using tools to get these proejcts over the line!</p>
+    </div>
+<div class="w-full max-w-4xl grid grid-cols-1 lg:grid-cols-2 gap-4 my-8 px-4 lg:mx-0">
 
         <a href="/personal-growth-tracking-gamification.html" class="p-5 border rounded border-green-400 hover:border-purple-400">
-            <h2>Personal gamification sheet</h2>
+            <h2>Life progress sheet</h2>
+            <p class="font-bold text-blue-600">TEMPLATE</p>
             <p>This simple excel spreadhseet cover the most basic elements of personal life gamification.</p>
         </a>
 
         <a href="https://ogamify.com" target="_blank" class="p-5 border rounded border-green-400 hover:border-purple-400">
-            <h2>Ogamify - workplace gamification</h2>
-            <p>Easy to use platform to gamify anything in business environment.</p>
+            <h2>Gamification Platform</h2>
+            <p class="font-bold">SAAS</p>
+            <p>Built and used internally by my companies. <br/>Now ready to help others.</p>
         </a>
-</div>
+        <a href="https://docs.google.com/spreadsheets/d/1mEHsTVAlfgw2JE0VE6fBYK8a_PCGr50mRIKHPjTZ9PA/edit?usp=sharing" target="_blank" class="p-5 border rounded border-green-400 hover:border-purple-400">
+            <h2>Gamification Course</h2>
+            <p class="font-bold text-red-500">(ON AIR)</p>
+            <p>Watch my goal to create the best online gamification course .</p>
+        </a>
+        <a href="https://docs.google.com/spreadsheets/d/1x_fPgTp3xPDkacemSJnYrkgEDiGMLStUK1d9jYf22Gs/edit?usp=sharing" target="_blank" class="p-5 border rounded border-green-400 hover:border-purple-400">
+            <h2>Writing a book?</h2>
+            <p class="font-bold text-orange-400">ARCHIVE</p>
+            <p>See how I managed to write mine using this sheet.</p>
+        </a>
+
+    </div>
