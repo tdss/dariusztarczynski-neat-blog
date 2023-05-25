@@ -6,7 +6,6 @@ author: Dariusz Tarczyński
 date: 2023-03-11T11:30:19.658Z
 tags:
   - Customer-Loyalty-Gamification
-  - Frontpage
 ---
 H﻿ave you ever seen a good looking popup during your shopping experience that triggered you into participation in a referal or points program?
 

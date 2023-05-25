@@ -3,8 +3,11 @@ layout: default
 prism: true
 ---
 
-<div class="container max-w-4xl mt-6  px-6">
+<div class="container max-w-4xl mt-6  px-4">
     <div class="pb-5 mb-5 border-b border-gray-100">
+        <div class="my-12">
+            <img src="{{ featuredImage }}" alt="{{ title }}" class="header-img">
+         </div>
         <h1 class="font-bold text-5xl">{{title}}</h1>
         <p class="text-center text-base leading-6 font-medium text-gray-500">
             <time> {{ date | readableDate }}
@@ -15,7 +18,38 @@ prism: true
         </p>
 
     </div>
-    <article class="prose lg:prose-xl my-4 mx-auto">
+    <article class="prose lg:prose-xl my-4 mx-auto max-w-4xl">
         {{ content | safe }}</article>
+
+    <h2>See also</h2>
+    {% set postslist = collections.post %}
+    {% for post in postslist | reverse %}
+    {% if post.data.tags | hasTag('Frontpage') %}
+    {% if not post.data.secret %}
+    <article class="my-8 lg:grid lg:grid-cols-12 lg:gap-8">
+        <div class="lg:col-span-5">
+          <p class="text-base leading-6 text-gray-500 mb-3">
+            <time>
+                {{ post.date | readableDate }}
+                by
+                <a>{{ post.data.author }}</a>
+    
+            </time>
+        </p>
+        </div>
+        <div class="lg:col-span-7">
+            <h2 class="font-bold text-3xl text-gray-900 mb-2">
+                <a href="{{ post.url | url }}">
+                    {{ post.data.title }}
+                </a>
+            </h2>
+                 <p class="text-lg text-gray-500 mb-3">
+                    {{ post.data.description }}
+                </p>
+        </div>
+    </article>
+    {% endif %}
+    {% endif %}
+    {% endfor %}
 
 </div>

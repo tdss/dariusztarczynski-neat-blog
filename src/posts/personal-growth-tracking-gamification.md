@@ -23,7 +23,7 @@ The free Excel template we recommend using to track your daily progress is calle
 
 **[DOWNLOAD PERSONAL GROWTH GAMIFICATION TEMPLATE](https://docs.google.com/spreadsheets/d/1oi6NFTfg_CyaeMlmOcLJYagvB3mEgNujM4uo0Tmesa8/edit)**
 
-To use the template, all you need to do is download it from the internet and open it in Excel. The template is pre-formatted, so you can start using it right away. All you need to do is enter your goals and the action steps you need to take to achieve them. You can also customize the template to suit your needs by adding or removing columns as required.
+To use the template, all you need to do is to click the link above and duplicate the template for your own use. The template is pre-formatted, so you can start using it right away. All you need to do is enter your goals and the action steps you need to take to achieve them. You can also customize the template to suit your needs by adding or removing columns as required.
 
 ## Conclusion
 

@@ -1,5 +1,5 @@
 ---
-title: Real Life Gamification
+title: Learn how to implement gamification in real life scenarios
 thumbnail: /static/img/luxury-monty-python.gif
 description: Download the "Real Life Gamification" book
 author: Dariusz Tarczyński
@@ -7,10 +7,9 @@ date: 2023-02-21T20:02:15.307Z
 tags:
   - Gamification
 ---
-"What drives you?" You may not know. But people who understand the gamification principles do.
-
+<div class="video my-6">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZoCcWJY24c0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+</div>
 Games made amazing progress in helping us to understand the motives behind our actions. They found a way into our reward center and learned how to help you build habits.
 
 You win by having unique immersive experiences and generally better life quality.
@@ -37,4 +36,12 @@ In conclusion, this book, is a practical, real-life guide to gamification that p
 Whether you're looking to create a gamified app, improve your personal habits, or motivate employees in the workplace, this book has something for everyone. So, don't hesitate to get your copy today and start designing your own gamification experience. Thank you for watching!"
 ![](/static/img/brave_xzpwqtjnck.png)
 
-**To get a copy of my book, just write me an email to dariusz.tarczynski at gmail. I shall send it to you within a few hours!**
+
+<p class=" text-center ">To get a copy of this book, just subscribe to the list below. <br/>All community members get my book as part of welcome package!</span>
+<div class="bg-white py-8 sm:py-8">
+  <div class="container max-w-4xl">
+    <div class="">
+      <iframe src="https://howbrainworks.substack.com/embed" width="100%" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+    </div>
+  </div>
+</div>
