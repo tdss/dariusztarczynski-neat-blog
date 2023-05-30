@@ -1,6 +1,6 @@
 ---
 title: "Whispers of the Night: Simple, Soothing Tips for a Peaceful Slumber"
-featuredImage: /static/img/tds_someone_sleeping_on_the_bed_comfortably._light_sketch._brig_47a4920a-8efc-4a01-a299-7e09b8053f1a.png
+featuredImage: /static/img/brave_lvhhz7tczw.png
 canonical: ""
 description:
   - DESCRIPTION
