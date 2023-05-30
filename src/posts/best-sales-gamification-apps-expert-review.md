@@ -1,5 +1,6 @@
 ---
 title: Best Sales Gamification Apps - expert review
+featuredImage: /static/img/brave_sn0yf6athi.png
 secret: false
 description: How sales gamification apps compare to each other in terms of the
   cost and features?
@@ -14,7 +15,7 @@ In today's highly competitive business landscape, keeping your sales team motiva
 
 In this comprehensive article, we will delve into the world of sales gamification, exploring the benefits it can bring to your sales force, as well as the key features you should consider when evaluating different platforms. We will then present our top picks for the most innovative, user-friendly, and effective sales gamification platforms, complete with in-depth reviews and real-world examples of how they've transformed sales teams across various industries. Whether you're a seasoned sales manager or a budding entrepreneur looking to supercharge your sales efforts, this article is your ultimate guide to harnessing the power of gamification for sales success. So, let's dive in and explore the game-changing world of sales gamification platforms!
 
-## Ambition
+## 1. Ambition
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X_m8Vnc1ZBI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -83,7 +84,6 @@ SalesScreen is a robust and versatile sales gamification platform that aims to e
 * **Mobile app**
 
   ![salesscreen sales gamification mobile app view](/static/img/brave_s58fxsjgrh.png)
-
 
 **Pricing:**
 
