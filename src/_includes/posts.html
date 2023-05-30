@@ -53,3 +53,61 @@ prism: true
     {% endfor %}
 
 </div>
+<div id="toc" class="invisible 2xl:visible ">
+    <h3>Table of Contents</h3>
+    <ul id="toc-list"></ul>
+  </div>
+<script>
+    // Generate the table of contents
+    var tocList = document.getElementById('toc-list');
+    var headings = document.querySelectorAll('article > h2, article > h3');
+    
+    for (var i = 0; i < headings.length; i++) {
+      var heading = headings[i];
+      var headingText = heading.innerText;
+      var headingId = 'toc-heading-' + i;
+      
+      heading.setAttribute('id', headingId);
+      
+      var listItem = document.createElement('li');
+      var link = document.createElement('a');
+      
+      link.setAttribute('href', '#' + headingId);
+      link.innerText = headingText;
+      
+      listItem.appendChild(link);
+      tocList.appendChild(listItem);
+    }
+    window.addEventListener('scroll', function() {
+  var scrollPosition = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop;
+
+  for (var i = 0; i < headings.length; i++) {
+    var heading = headings[i];
+    var headingId = heading.getAttribute('id');
+    var listItem = document.querySelector('li a[href="#' + headingId + '"]');
+
+    if (heading.offsetTop - 20 <= scrollPosition) {
+      listItem.classList.add('active');
+    } else {
+      listItem.classList.remove('active');
+    }
+  }
+});
+
+// Smooth scroll to the selected heading
+var tocLinks = document.querySelectorAll('#toc-list a');
+tocLinks.forEach(function(link) {
+  link.addEventListener('click', function(e) {
+    e.preventDefault();
+
+    var targetId = this.getAttribute('href').slice(1);
+    var targetElement = document.getElementById(targetId);
+    var targetOffset = targetElement.offsetTop;
+
+    window.scrollTo({
+      top: targetOffset,
+      behavior: 'smooth'
+    });
+  });
+});
+  </script>

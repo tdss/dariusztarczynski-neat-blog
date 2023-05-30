@@ -20,6 +20,11 @@
     {% endif %}
 
 <!-- Google tag (gtag.js) -->
+<style>
+  body {
+      transition: background-color 1s ease;
+  }
+</style>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-L258D3WXT1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -28,6 +33,26 @@
 
   gtag('config', 'G-L258D3WXT1');
   gtag('config', 'AW-11116637356');
+</script>
+
+<script>
+  // Define your original and final colors here
+  var originalColor = {r: 255, g: 255, b: 255}; // white
+  var finalColor = {r: 255, g: 240, b: 255}; // light green
+
+  window.addEventListener("scroll", function() {
+      var scrollPos = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+      var maxScroll = document.body.scrollHeight - window.innerHeight;
+      var percentageScrolled = scrollPos / maxScroll;
+      
+      var r = Math.floor(originalColor.r + ((finalColor.r - originalColor.r) * percentageScrolled));
+      var g = Math.floor(originalColor.g + ((finalColor.g - originalColor.g) * percentageScrolled));
+      var b = Math.floor(originalColor.b + ((finalColor.b - originalColor.b) * percentageScrolled));
+      
+      document.body.style.background = 'linear-gradient(to bottom right, rgb(' 
+          + originalColor.r + ',' + originalColor.g + ',' + originalColor.b + '), rgb(' 
+          + r + ',' + g + ',' + b + '))';
+  });
 </script>
   </head>
   <body>
