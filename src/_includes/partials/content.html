@@ -8,6 +8,8 @@
 {% if post.data.tags | hasTag('Frontpage') %}
 {% if not post.data.secret %}
 <article class="my-8 lg:grid lg:grid-cols-12 lg:gap-8">
+    <div class="lg:col-span-12">
+     </div>
     <div class="lg:col-span-5">
       <p class="text-base leading-6 text-gray-500 mb-3">
         <time>
@@ -17,7 +19,8 @@
 
         </time>
     </p>
-    </div>
+    <a href="{{ post.url | url }}"><img src="{{ post.data.featuredImage }}" alt="{{ post.data.title }}" class="header-img"></a>
+</div>
     <div class="lg:col-span-7">
         <h2 class="font-bold text-3xl text-gray-900 mb-2">
             <a href="{{ post.url | url }}">

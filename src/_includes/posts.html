@@ -21,7 +21,7 @@ prism: true
     <article class="prose lg:prose-xl my-4 mx-auto max-w-4xl">
         {{ content | subscribe | cleanBrackets | safe }}</article>
 
-    <h2>See also</h2>
+    <h2 class="mt-12">See also</h2>
     {% set postslist = collections.post %}
     {% for post in postslist | reverse %}
     {% if post.data.tags | hasTag('Frontpage') %}
@@ -36,7 +36,8 @@ prism: true
     
             </time>
         </p>
-        </div>
+        <a href="{{ post.url | url }}"><img src="{{ post.data.featuredImage }}" alt="{{ post.data.title }}" class="header-img"></a>
+    </div>
         <div class="lg:col-span-7">
             <h2 class="font-bold text-3xl text-gray-900 mb-2">
                 <a href="{{ post.url | url }}">
