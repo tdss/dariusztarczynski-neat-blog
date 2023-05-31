@@ -1,6 +1,6 @@
 ---
 title: "Chapter 1: Let It All Out - Embracing The Power of Expression"
-featuredImage: /static/img/brave_lvhhz7tczw.png
+featuredImage: /static/img/0_3.png
 secret: false
 description: '"A problem shared is a problem halved." But, there are times when
   words feel chained, thoughts cluttered, and emotions swaddled in ambiguity.'
