@@ -23,7 +23,7 @@ Movement is a language that every cell in our body understands. It's a conversat
 
 The [Mayo Clinic](https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/exercise/art-20048389) lists several benefits of regular physical activity, including weight control, combating health conditions and diseases, improving mood, boosting energy, promoting better sleep, and even putting the spark back into your sex life.
 
-[subscribe]
+[SUBSCRIBE]
 
 ## Finding Your Rhythm
 
