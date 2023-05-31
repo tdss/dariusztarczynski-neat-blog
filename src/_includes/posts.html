@@ -19,7 +19,7 @@ prism: true
 
     </div>
     <article class="prose lg:prose-xl my-4 mx-auto max-w-4xl">
-        {{ content | subscribe | safe }}</article>
+        {{ content | subscribe | cleanBrackets | safe }}</article>
 
     <h2>See also</h2>
     {% set postslist = collections.post %}
