@@ -1,9 +1,12 @@
 ---
-title: "A Picture of Peace: Visualize Calm with a Soothing Image to Ignite Your Inner Serenity."
+title: "A Picture of Peace: Visualize Calm with a Soothing Image to Ignite Your
+  Inner Serenity."
+featuredImage: /static/img/brave_lvhhz7tczw.png
 canonical: ""
-description: [DESCRIPTION]
+description: Finding inner peace is not just a nice-to-have; it's essential for
+  our physical, mental, and emotional health.
 author: Dariusz Tarczyński
-date: 2023-06-08
+date: 2023-04-27T22:00:00.000Z
 tags:
   - Frontpage
 ---
