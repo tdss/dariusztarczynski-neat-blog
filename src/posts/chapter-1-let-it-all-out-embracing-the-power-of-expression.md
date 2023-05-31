@@ -29,6 +29,8 @@ Now, imagine a different scene. You're alone in a room, a blank piece of paper i
 
 This letter is not meant to be sent. It's a conversation with yourself, a way to articulate your deepest thoughts and emotions without fear of judgment or repercussions. This is the power of writing unsent letters, a potent form of self-therapy. [[3]](https://www.psychologytoday.com/us/blog/here-there-and-everywhere/201701/the-therapeutic-benefits-writing-letter)
 
+[subscribe]
+
 ## Finding Solace in Journaling
 
 Picture a quiet morning, the world still asleep. You sit at your desk, a blank journal in front of you. As you start to write, your thoughts, aspirations, dreams, and fears flow onto the page.
