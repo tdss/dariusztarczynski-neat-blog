@@ -15,25 +15,25 @@ Imagine standing in the middle of a bustling symphony orchestra. Each musician i
 
 Often, we suppress these feelings, causing a whirlwind of pent-up emotions. But what if we could conduct this orchestra, bringing harmony to the chaos? This is the transformative journey of self-expression. It's a pathway towards self-discovery and personal growth.
 
-As Jim Morrison once said, "The most important kind of freedom is to be what you really are. You trade in your reality for a role. You trade in your sense for an act. You give up your ability to feel, and in exchange, put on a mask." [\[1]](https://www.goodreads.com/quotes/30949-the-most-important-kind-of-freedom-is-to-be-what)
+As Jim Morrison once said, "The most important kind of freedom is to be what you really are. You trade in your reality for a role. You trade in your sense for an act. You give up your ability to feel, and in exchange, put on a mask." [[1]](https://www.goodreads.com/quotes/30949-the-most-important-kind-of-freedom-is-to-be-what)
 
 ## The Healing Power of Conversation
 
 Picture yourself sitting across from a trusted friend. A warm cup of tea in your hands. The room is quiet, save for the comforting crackle of a fireplace. You start to speak, your words tentative at first, then flowing more freely.
 
-This is the power of conversation. The therapeutic benefits of expressing one's feelings in such a setting cannot be overstated. The simple act of articulating your thoughts can bring clarity and serve as a release for pent-up emotions. So, take a leap of faith, find a trusted friend, and let your emotions flow. [\[2]](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress-relief/art-20044456)
+This is the power of conversation. The therapeutic benefits of expressing one's feelings in such a setting cannot be overstated. The simple act of articulating your thoughts can bring clarity and serve as a release for pent-up emotions. So, take a leap of faith, find a trusted friend, and let your emotions flow. [[2]](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress-relief/art-20044456)
 
 ## The Therapeutic Practice of Writing Unsent Letters
 
 Now, imagine a different scene. You're alone in a room, a blank piece of paper in front of you. You pick up a pen, and start to write a letter.
 
-This letter is not meant to be sent. It's a conversation with yourself, a way to articulate your deepest thoughts and emotions without fear of judgment or repercussions. This is the power of writing unsent letters, a potent form of self-therapy. [\[3]](https://www.psychologytoday.com/us/blog/here-there-and-everywhere/201701/the-therapeutic-benefits-writing-letter)
+This letter is not meant to be sent. It's a conversation with yourself, a way to articulate your deepest thoughts and emotions without fear of judgment or repercussions. This is the power of writing unsent letters, a potent form of self-therapy. [[3]](https://www.psychologytoday.com/us/blog/here-there-and-everywhere/201701/the-therapeutic-benefits-writing-letter)
 
 ## Finding Solace in Journaling
 
 Picture a quiet morning, the world still asleep. You sit at your desk, a blank journal in front of you. As you start to write, your thoughts, aspirations, dreams, and fears flow onto the page.
 
-This is the solace of journaling, a time-tested practice that can significantly alleviate stress and improve mental well-being. [\[4]](https://www.apa.org/monitor/2011/11/journaling)
+This is the solace of journaling, a time-tested practice that can significantly alleviate stress and improve mental well-being. [[4]](https://www.apa.org/monitor/2011/11/journaling)
 
 ## Harnessing the Power of Expression
 
