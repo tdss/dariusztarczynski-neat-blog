@@ -24,15 +24,15 @@ collections:
       - { label: "Canonical", name: "canonical", widget: "string", required: false }
       - { label: "IsSecret", name: "secret", widget: "boolean", required: false, default: false }
       - { label: "Description", name: "description", widget: "string" }
-      - { label: "Author", name: "author", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
       - widget: select
         label: "tags"
         name: "tags"
+        required: false
         multiple: true
         create: true
-        options: ["Frontpage","Gamification Transition", "Addiction Prevention Gamification", "Company Culture Gamification", "Customer Loyalty Gamification", "Personal Growth Gamification", "Gamification Tips"]
+        options: ["Frontpage"]
   - label: "Settings"
     name: "settings"
     editor:

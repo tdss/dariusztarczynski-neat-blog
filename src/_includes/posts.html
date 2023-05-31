@@ -12,7 +12,7 @@ prism: true
         <p class="text-center text-base leading-6 font-medium text-gray-500">
             <time> {{ date | readableDate }}
                 by
-                <a href="/dariusz-tarczynski-gamification-consultant.html">{{ author }}</a>
+                <a href="https://substack.com/@howbrainworks" target="_blank">Dariusz</a>
 
             </time>
         </p>
@@ -24,7 +24,6 @@ prism: true
     <h2 class="mt-12">See also</h2>
     {% set postslist = collections.post %}
     {% for post in postslist | reverse %}
-    {% if post.data.tags | hasTag('Frontpage') %}
     {% if not post.data.secret %}
     <article class="my-8 lg:grid lg:grid-cols-12 lg:gap-8">
         <div class="lg:col-span-5">
@@ -32,7 +31,7 @@ prism: true
             <time>
                 {{ post.date | readableDate }}
                 by
-                <a>{{ post.data.author }}</a>
+                <a href="https://substack.com/@howbrainworks" target="_blank">Dariusz</a>
     
             </time>
         </p>
@@ -49,7 +48,6 @@ prism: true
                 </p>
         </div>
     </article>
-    {% endif %}
     {% endif %}
     {% endfor %}
 
