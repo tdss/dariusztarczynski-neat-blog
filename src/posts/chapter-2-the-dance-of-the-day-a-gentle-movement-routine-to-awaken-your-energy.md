@@ -15,7 +15,7 @@ tags:
 
 Imagine the first light of dawn, the world still caught in the embrace of slumber. You rise, stretching your limbs, feeling the energy coursing through your veins. This is the dance of the day, a gentle movement routine designed to awaken your energy and set the tone for the day ahead.
 
-Movement is not just about physical fitness. It's a symphony that resonates with our brain, our mood, and our overall health. As the [Harvard Medical School](https://www.health.harvard.edu/blog/regular-exercise-changes-brain-improve-memory-thinking-skills-201404097110) points out, regular exercise changes the brain to improve memory and thinking skills.
+Movement is not just about physical fitness. It's a symphony that resonates with our brain, our mood, and our overall health. As the [Harvard Medical School](https://www.health.harvard.edu/blog/regular-exercise-changes-brain-improve-memory-thinking-skills-201404097110){:target="_blank"} points out, regular exercise changes the brain to improve memory and thinking skills.
 
 ## The Power of Movement
 
@@ -23,7 +23,7 @@ Movement is a language that every cell in our body understands. It's a conversat
 
 The [Mayo Clinic](https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/exercise/art-20048389) lists several benefits of regular physical activity, including weight control, combating health conditions and diseases, improving mood, boosting energy, promoting better sleep, and even putting the spark back into your sex life.
 
-[SUBSCRIBE]
+[subscribe]
 
 ## Finding Your Rhythm
 
