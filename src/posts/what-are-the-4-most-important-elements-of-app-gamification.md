@@ -12,6 +12,7 @@ tags:
   - Customer Loyalty Gamification
 ---
 ## Watch the video, where I discuss the topic in more details:
+
 <div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/jeH1Z771l5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 ## 1. Small Rewards
@@ -22,7 +23,7 @@ Micro-rewards are a powerful tool to maintain user interest and keep them coming
 
 The success of small rewards lies in the fact that they tap into the user's sense of progression and skill development. As they collect these rewards, they are driven to continue participating in the gamified experience and advancing towards their goals.
 
----
+- - -
 
 ## 2. Reward Generously
 
@@ -32,7 +33,7 @@ Generous rewards can be special badges, unlocking premium features, granting acc
 
 This approach draws upon the same principles that video games use when rewarding players with rare loot or powerful upgrades after defeating a tough boss. It gives users something to strive for and adds an additional layer of engagement and excitement.
 
----
+- - -
 
 ## 3. Let User See Their Progress in Multiple Ways
 
@@ -42,7 +43,7 @@ Another effective method of showcasing progress is through status or level syste
 
 Allowing users to view their progress from different angles not only gives them a holistic view of their journey but also caters to different motivational drivers among users. Some might find motivation in surpassing others on the leaderboard, while others might find it in personal growth and level advancement.
 
----
+- - -
 
 ## 4. The Power of Surprise
 
@@ -52,6 +53,6 @@ The psychological effect of receiving an unexpected reward is profound, triggeri
 
 Additionally, the element of surprise can be utilized not just in rewards but also in introducing new challenges or features, keeping the user experience fresh and dynamic.
 
----
+- - -
 
-In conclusion, effective app gamification relies on a fine balance of these elements. By combining small and generous rewards, showing progress in multiple ways, and utilizing the power of surprise, developers can foster high levels of engagement and satisfaction among users. This not only leads to an enriched user experience but also promotes loyalty and repeated usage, making gamification a
+In conclusion, effective app gamification relies on a fine balance of these elements. By combining small and generous rewards, showing progress in multiple ways, and utilizing the power of surprise, developers can foster high levels of engagement and satisfaction among users. This not only leads to an enriched user experience but also promotes loyalty and repeated usage, making gamification a potent strategy in the world of app development.
