@@ -1,6 +1,6 @@
 ---
 title: "Chapter 3: Do something that makes you happy today"
-featuredImage: /static/img/luxury-monty-python.gif
+featuredImage: /static/img/tds_a_farmer_working_with_a_shovel_taking_care_of_his_garde_the_c3bee063-0f58-4de2-99ef-0b18a1130cdc.png
 secret: false
 description: Self improvement should start with self-care. This is number one
   step to approach, before you pick up the pace again. Do something kind to
