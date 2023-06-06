@@ -1,6 +1,6 @@
 ---
 title: "Chapter 4: You are not a robot"
-featuredImage: /static/img/tds_a_man_in_suit_walking_through_the_forest_light_colorful_ske_83c7cd3d-e9fe-49bc-8379-03d411908bfb.png
+featuredImage: /static/img/tds_a_man_in_suit_sitting_on_a_grass_uphill_watching_the_sunset_e54551fd-bbf5-4f0e-ae54-da447a5d4687.png
 secret: false
 description: You can't "push" through the work you have 6 hours a day. You need
   variety. Here is how you can do it.
