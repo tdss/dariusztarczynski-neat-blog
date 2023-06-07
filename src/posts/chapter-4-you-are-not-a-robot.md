@@ -56,6 +56,7 @@ Does it differ much from a student sitting by his desk, learning from books for 
 
 So lesson one: provide multiple learning environments for yourself. Mix them often. Stay away from being "bored"! Once you get bored, your brain is back at energy-saving mode and you stop making any progress!
 
+[subscribe]
 
 
 ## What do successful people actually do?
