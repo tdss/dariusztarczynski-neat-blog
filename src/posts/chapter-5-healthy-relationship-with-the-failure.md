@@ -76,7 +76,7 @@ See what these thoughts do to your brain, to your line of thoughts.
 
 Another one, also a very powerful quote.
 
-Especially useful for public speaking anxiety and other internal worries. Just imagine worst-case scenario (you stand there silent, the crowd waits, and you can't say a word), accept it, adn imagine that your life moves one after it as it normally would. Nothing really happened.
+Especially useful for public speaking anxiety and other internal worries. Just imagine worst-case scenario (you stand there silent, the crowd awaits, and you can't say a word), accept it, and imagine that your life moves one after it as it normally would. Nothing really happened.
 
 Maybe you are going to give the worst performance of your life. Reach the lowest point of stress-induced umms and errs. Accept it, imagine there is normal life after it. Nothing changed.
 
