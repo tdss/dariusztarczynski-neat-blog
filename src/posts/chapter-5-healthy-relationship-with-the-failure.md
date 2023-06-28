@@ -82,7 +82,9 @@ Maybe you are going to give the worst performance of your life. Reach the lowest
 
 
 
-Our imagination of the negative consequences of failure is tying our hands so many times. We are doing this to ourselves! 
+Our imagination of the negative consequences of failure is tying our hands so many times. 
+
+We are doing this to ourselves! 
 
 This is no time to get motivated! This is time to chill out a bit!
 
