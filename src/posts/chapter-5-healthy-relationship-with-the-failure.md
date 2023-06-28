@@ -76,7 +76,7 @@ See what these thoughts do to your brain, to your line of thoughts.
 
 Another one, also a very powerful quote.
 
-Especially useful for public speaking anxiety and other internal worries. Just imagine worst-case scenario (you stand there silent, the crowd awaits, and you can't say a word), accept it, and imagine that your life moves one after it as it normally would. Nothing really happened.
+Especially useful for public speaking anxiety and other internal worries. Just imagine worst-case scenario (you stand there silent, the crowd awaits, and you can't say a word), accept it, and imagine that your life moves on after it as it normally would. Nothing really happened.
 
 Maybe you are going to give the worst performance of your life. Reach the lowest point of stress-induced umms and errs. Accept it, imagine there is normal life after it. Nothing changed.
 
@@ -100,7 +100,7 @@ This is no time to get motivated! This is time to chill out a bit!
 
 Me & you, we are not famous superheroes and superstars. Just normal ordinary people. Each one of us lifts the weight of our past on our shoulders. We can't just snap our fingers and change into different personas.
 
-(although looking at the popularity of motivational speakers, many people would, almost like we would preffer to become bipolar, ha! I wonder how this connects to the growing number of mental illnesses in society... hmm..)
+(although looking at the popularity of motivational speakers, many people would, almost like we would prefer to become bipolar, ha! I wonder how this connects to the growing number of mental illnesses in society... hmm..)
 
 
 
