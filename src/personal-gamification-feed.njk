@@ -1,0 +1,20 @@
+---
+permalink: /personal-gamification-blog.json
+eleventyExcludeFromCollections: true
+---
+{
+    ArtileItems: [
+    {% for page in collections.post %}
+        {% if not page.data.secret %}
+        "ArticleItem": {
+            "date": "{{ page.date.toISOString() }}"
+            "title": "{{ page.data.title }}"
+            "description": "{{ page.data.description }}"
+            "author": "{{ page.data.author }}"
+            "image": "{{ settings.url }}{{ page.data.featuredImage }}"
+            "content": "here will be content but I have some bug{{ page.content }}"
+        }
+        {% endif %}
+    {% endfor %}
+    ]
+}
