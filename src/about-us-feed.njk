@@ -4,17 +4,15 @@ eleventyExcludeFromCollections: true
 ---
 {
     "items": [
-    {% for page in collections.post %}
-        {% if page.data.tags | hasTag('About Us App') %}
+    {% for page in collections['About Us App'] %}
         {
             "date": "{{ page.date.toISOString() }}",
             "title": "{{ page.data.title }}",
             "description": "{{ page.data.description }}",
             "author": "{{ page.data.author }}",
             "image": "{{ settings.url }}{{ page.data.featuredImage }}",
-            "content": "{{ post.templateContent }}"
+            "content": "{{ page.templateContent }}"
         },
-        {% endif %}
     {% endfor %}
     ]
 }
