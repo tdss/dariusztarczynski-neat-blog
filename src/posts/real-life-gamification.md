@@ -1,11 +1,12 @@
 ---
 title: Real Life Gamification
 thumbnail: /static/img/luxury-monty-python.gif
+featuredImage: /static/img/brave_xzpwqtjnck.png
 description: Download the "Real Life Gamification" book
 author: Dariusz Tarczyński
 date: 2023-02-21T20:02:15.307Z
 tags:
-  - Gamification
+  - Personal Growth Gamification
 ---
 "What drives you?" You may not know. But people who understand the gamification principles do.
 
