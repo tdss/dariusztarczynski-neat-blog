@@ -1,0 +1,20 @@
+---
+permalink: /about-us-blog.json
+eleventyExcludeFromCollections: true
+---
+{
+    "items": [
+    {% for page in collections.post %}
+        {% if page.data.tags | hasTag('about-us-app') %}
+        {
+            "date": "{{ page.date.toISOString() }}",
+            "title": "{{ page.data.title }}",
+            "description": "{{ page.data.description }}",
+            "author": "{{ page.data.author }}",
+            "image": "{{ settings.url }}{{ page.data.featuredImage }}",
+            "content": "{{ post.templateContent }}"
+        },
+        {% endif %}
+    {% endfor %}
+    ]
+}

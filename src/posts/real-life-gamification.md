@@ -6,6 +6,7 @@ author: Dariusz Tarczyński
 date: 2023-02-21T20:02:15.307Z
 tags:
   - Gamification
+  - personal-growth-gamification
 ---
 "What drives you?" You may not know. But people who understand the gamification principles do.
 
