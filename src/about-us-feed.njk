@@ -5,7 +5,7 @@ eleventyExcludeFromCollections: true
 {
     "items": [
     {% for page in collections.post %}
-        {% if page.data.tags | hasTag('about-us-app') %}
+        {% if page.data.tags | hasTag('About Us App') %}
         {
             "date": "{{ page.date.toISOString() }}",
             "title": "{{ page.data.title }}",

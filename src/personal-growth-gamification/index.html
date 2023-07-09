@@ -18,7 +18,7 @@ layout: blog
     {% set postslist = collections.post %}
 
     {% for post in postslist | reverse %}
-    {% if post.data.tags | hasTag('Personal-Growth-Gamification') %}
+    {% if post.data.tags | hasTag('Personal Growth Gamification') %}
     {% if not post.data.secret %}
         {% if post.data.featuredImage %}
         <article class="my-8 lg:grid lg:grid-cols-12 lg:gap-8">
