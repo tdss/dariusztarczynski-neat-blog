@@ -11,7 +11,7 @@ eleventyExcludeFromCollections: true
             "description": "{{ page.data.description }}",
             "author": "{{ page.data.author }}",
             "image": "{{ settings.url }}{{ page.data.featuredImage }}",
-            "content": "{{ page.templateContent }}"
+            "content": {{ page.templateContent | toJson | safe}}
         },
     {% endfor %}
     ]

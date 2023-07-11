@@ -17,6 +17,9 @@ module.exports = function (eleventyConfig) {
     );
   });
 
+  eleventyConfig.addFilter('toJson', JSON.stringify);
+
+
   eleventyConfig.addFilter("hasTag", (tags, tag) => {
     return (tags || []).includes(tag);
   });
