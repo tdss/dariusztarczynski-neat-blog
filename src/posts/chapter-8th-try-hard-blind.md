@@ -1,5 +1,5 @@
 ---
-title: Chapter 8th "try-hard-blind"
+title: 'Chapter 8: "try-hard-blind"'
 featuredImage: /static/img/TDS_a_picture_of_man_sitting_by_a_clean_desk_with_light_sun_goi_6269b185-3f48-41c0-b1e2-88b337d10509.png
 secret: false
 description: Climbing up the burnout hill, here we go!
