@@ -53,8 +53,8 @@ If your application can show users' progress in another way, points become optio
 
 ![Legend of Zelda: Breath of The Wild](/static/img/screen_shot_2017-01-13_at_5.32.23_pm.webp)
 
-Obviously, you gather gear that over time becomes better, you also can slightly update some of your base skills... and over time you acquire more "hears", which makes you stronger. Not to mention being able to accumulate and sell stuff gathered from the map.
-But points? They are not there.
+Obviously, you gather gear that over time becomes better, you also can slightly update some of your base skills... and over time you acquire more "hearts", which makes you stronger. Not to mention being able to accumulate and sell stuff gathered from the map.
+But points? They are not there. You can't even "lose". Game over will just restart the game from the last autosave, without any extra penalty.
 
 Sometimes points are there, but they are completely secondary. Some games use points just as a "fun fact" rather than anything that holds value, and progression comes from map exploration or other game advancement.
 
