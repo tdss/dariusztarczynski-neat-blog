@@ -58,6 +58,8 @@ But points? They are not there. You can't even "lose". Game over will just resta
 
 Sometimes points are there, but they are completely secondary. Some games use points just as a "fun fact" rather than anything that holds value, and progression comes from map exploration or other game advancement.
 
+
+
 ## *What about gamified apps/websites? Should we use points?*
 
 
